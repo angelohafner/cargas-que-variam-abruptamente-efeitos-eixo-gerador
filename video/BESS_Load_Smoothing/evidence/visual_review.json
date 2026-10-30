@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "scope": "Current converter correction: inspected full-resolution discharge and charge frames decoded from the final video. The AC sine wave is in the upper bus-connected half; the DC solid-over-dashed mark is in the lower battery-connected half, both legible and unclipped. Earlier five-chapter and shaft reviews remain applicable to the four unchanged clips; their hashes and full-video decoding are checked separately.",
+  "checks": {
+    "English_visible_content": "PASS",
+    "sparse_text_and_readable_labels": "PASS",
+    "numeric_content_and_variables_use_MathTex": "PASS",
+    "generic_load_examples_without_data_center_labels": "PASS",
+    "same_axes_and_units_for_comparison": "PASS",
+    "shared_time_trackers_and_dataset_interpolation": "PASS",
+    "consistent_comparison_colors": "PASS",
+    "no_clipped_traces_or_labels": "PASS",
+    "BESS_charge_discharge_direction": "PASS",
+    "converter_AC_top_DC_bottom": "PASS",
+    "converter_sine_and_three_DC_dashes_legible": "PASS",
+    "contextual_step_size_limitation_visible": "PASS",
+    "removed_slides_absent_from_current_cut": "PASS",
+    "ending_shows_measured_power_results": "PASS",
+    "shaft_indicators_use_measured_baseline_relative_twist": "PASS",
+    "common_visual_gain_200": "PASS",
+    "physical_milliradian_ticks_and_live_MathTex_readouts": "PASS",
+    "visible_colored_arcs_and_recent_pointer_trails": "PASS",
+    "synchronized_raw_T23_plot": "PASS",
+    "layout_at_baseline_and_peak": "PASS"
+  },
+  "corrected_findings": [
+    "Separated line swatches from legend labels.",
+    "Moved time-unit labels below the numeric axis ticks.",
+    "Reduced the battery symbol height to keep its terminal below the converter and above the power-balance equation; both affected chapters were rerendered and the final film reassembled.",
+    "Replaced the six small relative-angle pointers with two large baseline-relative twist indicators using a shared gain of 200, plus physical mrad readouts and synchronized raw shaft torque.",
+    "Removed the separate load-step close-up and closing limitation slide. Moved a short step-size-sensitivity note into the shaft footer and ended the five-chapter cut with measured power results.",
+    "Corrected the converter's reversed and malformed internal marks: a sine wave on the top AC side and a solid line over three dashes on the bottom DC side. Both SVG assets use the shared symbol; only ParallelBuffer was rerendered."
+  ],
+  "circuit_clearances_scene_units": {
+    "converter_to_battery": 0.2125,
+    "battery_to_equation": 0.18723771145833323
+  },
+  "scientific_scope": "Electrical smoothing is measured. The selected load-step shaft trace is displayed without claiming quantified physical torsional damping improvement.",
+  "revision": 4,
+  "converter_scene_full_video_window_s": [12.2,29.8],
+  "revised_scene_full_video_window_s": [
+    52.0,
+    76.6
+  ]
+}

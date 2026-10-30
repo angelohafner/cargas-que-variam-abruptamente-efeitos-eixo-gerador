@@ -1,0 +1,16 @@
+{
+  "text": [
+    "A parallel energy buffer",
+    "BESS",
+    "Charge",
+    "Discharge",
+    "Generator",
+    "Load",
+    "Single-line equivalent"
+  ],
+  "math": [
+    "P_G+P_B=P_L+P_{\\mathrm{loss}}",
+    "\\Delta P_L<0\\qquad P_B<0",
+    "\\Delta P_L>0\\qquad P_B>0"
+  ]
+}

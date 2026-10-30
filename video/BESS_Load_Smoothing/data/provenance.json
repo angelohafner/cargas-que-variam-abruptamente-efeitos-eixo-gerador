@@ -1,0 +1,298 @@
+{
+  "without": {
+    "original_folder": "results/scale_250_500/generator_base_final_20261026_184104",
+    "receipt_sha256": "57bdc86538652e2cb9c47b3ca2216aca76a61a1dd7ec379561ecf50119bcae18",
+    "source_project_sha256": "699ad7af1567e213540ae23544919481930a917517efd4c79abe41bd43a1f448",
+    "original_outputs_sha256": {
+      "DataCenter_Gerador_Sem_BESS.inf": "ace9844379adab9757ee878e3bf45eb5635b6fa2ffeef8e636431d76d0cf89f1",
+      "DataCenter_Gerador_Sem_BESS_01.out": "c3ede2bd60be221600004001dae33cb4ce2e9bb69742efb074f43d27e1dd38ef",
+      "DataCenter_Gerador_Sem_BESS_02.out": "2571fe12f0d2b9647f0b92c5f57af550ac8d951f01c41352ba29b078335c71a0",
+      "DataCenter_Gerador_Sem_BESS_03.out": "c3a54d98932199083f4f2a1cca4cf9a1c05f09474f64955d2326bb09ad5c7141",
+      "DataCenter_Gerador_Sem_BESS_04.out": "269dca729e9603767a148e3e15d399b7255d0abbcafb41eca37d824b37897cce",
+      "DataCenter_Gerador_Sem_BESS_05.out": "3606fe486d200b83171724e2eff73ac237bdcc2a450286a674bb2cf4997e27c6",
+      "DataCenter_Gerador_Sem_BESS_06.out": "acafe8f5b30e5983874d2ecf0df5237cf3bc88f443cde3c4b9e4353bb6a1be55"
+    },
+    "time_step_us": 10,
+    "sample_step_us": 100,
+    "samples": 300001,
+    "duration_s": 30.0,
+    "channel_mapping": [
+      {
+        "channel": "Pload_MW",
+        "index": 2,
+        "block": 1,
+        "column": 2
+      },
+      {
+        "channel": "Pgrid_MW",
+        "index": 3,
+        "block": 1,
+        "column": 3
+      },
+      {
+        "channel": "Pbess_MW",
+        "index": 4,
+        "block": 1,
+        "column": 4
+      },
+      {
+        "channel": "SOC_pct",
+        "index": 11,
+        "block": 2,
+        "column": 1
+      },
+      {
+        "channel": "Shaft_theta1_rad",
+        "index": 15,
+        "block": 2,
+        "column": 5
+      },
+      {
+        "channel": "Shaft_dw3_rad_s",
+        "index": 17,
+        "block": 2,
+        "column": 7
+      },
+      {
+        "channel": "Shaft_dw2_rad_s",
+        "index": 19,
+        "block": 2,
+        "column": 9
+      },
+      {
+        "channel": "Shaft_dw1_rad_s",
+        "index": 21,
+        "block": 3,
+        "column": 1
+      },
+      {
+        "channel": "Shaft_T23_pu",
+        "index": 23,
+        "block": 3,
+        "column": 3
+      },
+      {
+        "channel": "Shaft_T12_pu",
+        "index": 25,
+        "block": 3,
+        "column": 5
+      },
+      {
+        "channel": "Gas_Tm_pu",
+        "index": 31,
+        "block": 4,
+        "column": 1
+      },
+      {
+        "channel": "Generator_Te_pu",
+        "index": 33,
+        "block": 4,
+        "column": 3
+      },
+      {
+        "channel": "Shaft_rel23_rad_s",
+        "index": 43,
+        "block": 5,
+        "column": 3
+      },
+      {
+        "channel": "Shaft_theta3_rad",
+        "index": 45,
+        "block": 5,
+        "column": 5
+      },
+      {
+        "channel": "Shaft_rel12_rad_s",
+        "index": 47,
+        "block": 5,
+        "column": 7
+      },
+      {
+        "channel": "Pgrid_ref_MW",
+        "index": 48,
+        "block": 5,
+        "column": 8
+      },
+      {
+        "channel": "Pgen_MW",
+        "index": 49,
+        "block": 5,
+        "column": 9
+      },
+      {
+        "channel": "Shaft_theta2_rad",
+        "index": 51,
+        "block": 6,
+        "column": 1
+      },
+      {
+        "channel": "Generator_Hz",
+        "index": 52,
+        "block": 6,
+        "column": 2
+      },
+      {
+        "channel": "Pload_command_MW",
+        "index": 54,
+        "block": 6,
+        "column": 4
+      }
+    ]
+  },
+  "with": {
+    "original_folder": "results/scale_250_500/generator_bess_final_20261026_184155",
+    "receipt_sha256": "2f4f642666aea6791180d7c12fb0317f9d7f2f7fa73ba01203171026d2261c8a",
+    "source_project_sha256": "de9931ac3f327fe0753251d2596bc5e9ce20acba81ee3c704ec8c9a27ceebbba",
+    "original_outputs_sha256": {
+      "DataCenter_Gerador_Com_BESS.inf": "0737d8a76a5c369f2ac7f5c417534946f19472b2f4c15370dd790e234cd263fb",
+      "DataCenter_Gerador_Com_BESS_01.out": "3b550cf9970ec869cf4f2976b4160e25a0f87807c6fb8ddeeff92b8d9fb8de4c",
+      "DataCenter_Gerador_Com_BESS_02.out": "6882ce1a8b762447da8daa074ff19cd82008d1042f741725d6af153e0c22bd47",
+      "DataCenter_Gerador_Com_BESS_03.out": "bc15a5fb5e305b509abf9a957f9020f55af16604e0a98ab96a5b476db8b748c2",
+      "DataCenter_Gerador_Com_BESS_04.out": "a804682eeb9a179a9bd96adf5a16cb64147a22b882949561e1bb5d8377eb1a87",
+      "DataCenter_Gerador_Com_BESS_05.out": "3a88e24874e228804dac1f3a20f01491746ac72a772a74711bf711f5edd77906",
+      "DataCenter_Gerador_Com_BESS_06.out": "a8523c57265ea3ed10429814e5961b2c7fa917ecbe9056edbcef67b298f1022d",
+      "DataCenter_Gerador_Com_BESS_07.out": "d60082399a4fc56bddf3b3ff6426539b41c820a68f18bcaac3ad00e8a0a8c615",
+      "DataCenter_Gerador_Com_BESS_08.out": "ca82c78810d33ac8d5210ed438c4c3ef130077d53428da5bba6172799567eb6e",
+      "DataCenter_Gerador_Com_BESS_09.out": "ed64dd97bfeed0bf323987d6391ecdb6ffececc45c1430315fe5cb70c645ad9d",
+      "DataCenter_Gerador_Com_BESS_10.out": "6467c443661197923dc6481ebc4e7c2650270fb75899189fa8869aa0a48cc76d"
+    },
+    "time_step_us": 10,
+    "sample_step_us": 100,
+    "samples": 300001,
+    "duration_s": 30.0,
+    "channel_mapping": [
+      {
+        "channel": "Pload_MW",
+        "index": 2,
+        "block": 1,
+        "column": 2
+      },
+      {
+        "channel": "Pgrid_MW",
+        "index": 3,
+        "block": 1,
+        "column": 3
+      },
+      {
+        "channel": "Pbess_MW",
+        "index": 4,
+        "block": 1,
+        "column": 4
+      },
+      {
+        "channel": "SOC_pct",
+        "index": 16,
+        "block": 2,
+        "column": 6
+      },
+      {
+        "channel": "Shaft_theta1_rad",
+        "index": 36,
+        "block": 4,
+        "column": 6
+      },
+      {
+        "channel": "Shaft_dw3_rad_s",
+        "index": 39,
+        "block": 4,
+        "column": 9
+      },
+      {
+        "channel": "Shaft_dw2_rad_s",
+        "index": 42,
+        "block": 5,
+        "column": 2
+      },
+      {
+        "channel": "Shaft_dw1_rad_s",
+        "index": 45,
+        "block": 5,
+        "column": 5
+      },
+      {
+        "channel": "Shaft_T23_pu",
+        "index": 48,
+        "block": 5,
+        "column": 8
+      },
+      {
+        "channel": "Shaft_T12_pu",
+        "index": 51,
+        "block": 6,
+        "column": 1
+      },
+      {
+        "channel": "Gas_Tm_pu",
+        "index": 60,
+        "block": 6,
+        "column": 10
+      },
+      {
+        "channel": "Generator_Te_pu",
+        "index": 64,
+        "block": 7,
+        "column": 4
+      },
+      {
+        "channel": "Shaft_rel23_rad_s",
+        "index": 77,
+        "block": 8,
+        "column": 7
+      },
+      {
+        "channel": "Shaft_theta3_rad",
+        "index": 80,
+        "block": 8,
+        "column": 10
+      },
+      {
+        "channel": "Shaft_rel12_rad_s",
+        "index": 82,
+        "block": 9,
+        "column": 2
+      },
+      {
+        "channel": "Pgrid_ref_MW",
+        "index": 84,
+        "block": 9,
+        "column": 4
+      },
+      {
+        "channel": "Pgen_MW",
+        "index": 85,
+        "block": 9,
+        "column": 5
+      },
+      {
+        "channel": "Shaft_theta2_rad",
+        "index": 86,
+        "block": 9,
+        "column": 6
+      },
+      {
+        "channel": "Generator_Hz",
+        "index": 89,
+        "block": 9,
+        "column": 9
+      },
+      {
+        "channel": "Pload_command_MW",
+        "index": 92,
+        "block": 10,
+        "column": 2
+      }
+    ]
+  },
+  "source_suite_sha256": "b52bb376e8b6190513a5c46482ea82c743ce9cb9ad53aafa97aac4ae4d59ef91",
+  "source_audit_sha256": "a8a1a3dedf84513bd9dba5155bbee3c75b88c2724608a88dc0777ef7045d9f0f",
+  "status": "PASS",
+  "checks": {
+    "source_receipts_and_outputs": "PASS",
+    "same_time_axis": "PASS",
+    "same_load_command": "PASS",
+    "same_integration_settings": "PASS",
+    "archived_power_metrics": "PASS"
+  },
+  "raw_archive_sha256": "6a4284ed7a52e6ad91f0fe0b90780449949dc429df901f27bd89b108ce93c657",
+  "display_archive_sha256": "a65107b128b0387e417857557285a0cdab7e5f5e059c73c0f8644947c004366e"
+}

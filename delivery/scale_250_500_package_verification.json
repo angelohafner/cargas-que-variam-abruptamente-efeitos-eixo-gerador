@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "model_package": {
+    "file": "delivery/DataCenter_250_500MW_Modelos.zip",
+    "bytes": 113544,
+    "sha256": "f75eb0a94004ab30dd3671684288d8ccd0f97a3bdf8364bfbdba36f0b12d9798",
+    "payload_files": 7,
+    "CRC": "PASS",
+    "payload_hashes": "PASS"
+  },
+  "full_package": {
+    "file": "delivery/DataCenter_250_500MW_PSCAD_5_1.zip",
+    "bytes": 762384664,
+    "sha256": "236caf4ed13202596f9aa0a2f631f9f40d2f8dd2246c71995ae9672372bace04",
+    "payload_files": 317,
+    "CRC": "PASS",
+    "payload_hashes": "PASS"
+  },
+  "previous_archives_preserved": {
+    "delivery/DataCenter_Quatro_Casos_Modelos.zip": "1832c6bf77a0a907d9deb3812930add01d1516d7f10e2b292ff31bacb1e1a8a1",
+    "delivery/DataCenter_Quatro_Casos_PSCAD_5_1.zip": "13022fa5357542c2e303b80a309c235c9328a9dd9a2a1d3f3148ea51576a6d85",
+    "delivery/DataCenter_BESS_PSCAD_5_1.zip": "cbbf21126ef65d6351c7347e0caf043c556ac57e0d70feed0a54e5a7f2df5d25"
+  },
+  "previous_archives_check": "PASS",
+  "historical_sources_preserved": true,
+  "validation_checks": 168,
+  "validated_runs": 11,
+  "relocated_runs": 4,
+  "modal_amplitude_sensitivity": {
+    "generator_base": {
+      "amplitude_change_percent": [
+        1.1084277151761857,
+        -0.09604287861739724
+      ],
+      "amplitudes_within_10percent": true
+    },
+    "generator_bess": {
+      "amplitude_change_percent": [
+        -67.81298826374082,
+        -67.26834631379933
+      ],
+      "amplitudes_within_10percent": false
+    }
+  }
+}

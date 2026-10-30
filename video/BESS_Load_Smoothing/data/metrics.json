@@ -1,0 +1,140 @@
+{
+  "without": {
+    "Pgrid_MW": {
+      "mean_MW": 373.8547678923497,
+      "std_MW": 105.68067149672541,
+      "min_MW": 250.2155469472091,
+      "max_MW": 503.52832136074124,
+      "max_ramp_MW_s": 2515.3522311523366
+    },
+    "Pgen_MW": {
+      "mean_MW": 375.86097023353454,
+      "std_MW": 106.7734917843427,
+      "min_MW": 250.9899124351992,
+      "max_MW": 506.96668825890293,
+      "max_ramp_MW_s": 2541.6624809108384
+    },
+    "Shaft_T12_pu": {
+      "window_s": [
+        1.8,
+        2.8
+      ],
+      "raw_min_pu": 0.25020301739326,
+      "raw_max_pu": 0.46175826023449
+    },
+    "Shaft_T23_pu": {
+      "window_s": [
+        1.8,
+        2.8
+      ],
+      "raw_min_pu": 0.25445658318565,
+      "raw_max_pu": 0.49980055076416
+    },
+    "SOC_range_pct": [
+      50.0,
+      50.0
+    ]
+  },
+  "with": {
+    "Pgrid_MW": {
+      "mean_MW": 374.24099228054877,
+      "std_MW": 54.68171814005811,
+      "min_MW": 247.8172580632914,
+      "max_MW": 494.6171507807138,
+      "max_ramp_MW_s": 259.23232907078767
+    },
+    "Pgen_MW": {
+      "mean_MW": 376.15603875168296,
+      "std_MW": 55.19355452572144,
+      "min_MW": 248.66701324656105,
+      "max_MW": 497.85550011414796,
+      "max_ramp_MW_s": 260.48795112338297
+    },
+    "Shaft_T12_pu": {
+      "window_s": [
+        1.8,
+        2.8
+      ],
+      "raw_min_pu": 0.2512295866357,
+      "raw_max_pu": 0.26585101500938
+    },
+    "Shaft_T23_pu": {
+      "window_s": [
+        1.8,
+        2.8
+      ],
+      "raw_min_pu": 0.25195175188808,
+      "raw_max_pu": 0.26794877506489
+    },
+    "SOC_range_pct": [
+      49.816402286545,
+      50.007536518709
+    ]
+  },
+  "reductions_percent": {
+    "Pgen_MW": {
+      "std_MW": 48.30781160814763,
+      "max_ramp_MW_s": 89.75127684813471
+    },
+    "Pgrid_MW": {
+      "std_MW": 48.25759775594115,
+      "max_ramp_MW_s": 89.69399490615166
+    }
+  },
+  "shaft": {
+    "H": [
+      1.5,
+      1.0,
+      2.5
+    ],
+    "K": [
+      40.0,
+      50.0
+    ],
+    "rpm": 3600.0,
+    "MVA": 1000.0,
+    "generator_mass": 3,
+    "torque_shares": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "mutual_damping": [
+      1.0,
+      1.0
+    ]
+  },
+  "natural_frequencies_Hz": [
+    0.0,
+    10.610873569209502,
+    23.236708647633858
+  ],
+  "modal_step_sensitivity": {
+    "generator_base": {
+      "amplitude_change_percent": [
+        1.1084277151761857,
+        -0.09604287861739724
+      ],
+      "amplitudes_within_10percent": true
+    },
+    "generator_bess": {
+      "amplitude_change_percent": [
+        -67.81298826374082,
+        -67.26834631379933
+      ],
+      "amplitudes_within_10percent": false
+    }
+  },
+  "method": {
+    "power_window_s": [
+      1.5,
+      30
+    ],
+    "power_average_s": 0.016666666666666666,
+    "ramp_interval_s": 0.1,
+    "shaft_traces": "No time averaging; uniformly sampled at 0.5 ms for display.",
+    "power_measurement": "Pgen_MW is generator-terminal power. Pgrid_MW is measured downstream on the 34.5 kV side.",
+    "initialization": "Events shown only after the 1.2 s rotor release.",
+    "limitation": "BESS torsional amplitudes are not timestep-converged. No physical damping ratio or quantified torsional benefit is claimed."
+  }
+}

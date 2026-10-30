@@ -1,0 +1,20 @@
+{
+  "text": [
+    "Generator-terminal power  |  Same load command",
+    "What the simulation demonstrates",
+    "With BESS",
+    "Without BESS"
+  ],
+  "math": [
+    "106.8\\;\\mathrm{MW}",
+    "2541.7\\;\\mathrm{MW/s}",
+    "260.5\\;\\mathrm{MW/s}",
+    "55.2\\;\\mathrm{MW}",
+    "\\Delta t=100~\\mathrm{ms}",
+    "\\downarrow\\;48.31\\%",
+    "\\downarrow\\;89.75\\%",
+    "\\max\\left|\\Delta P_G/\\Delta t\\right|",
+    "\\sigma(P_G)",
+    "t\\in[1.5,30]~\\mathrm{s}"
+  ]
+}

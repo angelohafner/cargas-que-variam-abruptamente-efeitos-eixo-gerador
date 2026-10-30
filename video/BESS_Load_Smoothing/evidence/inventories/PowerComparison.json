@@ -1,0 +1,25 @@
+{
+  "text": [
+    "PSCAD  |  Power average",
+    "Same demand. Smoother generation.",
+    "With BESS",
+    "Without BESS"
+  ],
+  "math": [
+    "-250",
+    "0",
+    "1/60\\,\\mathrm{s}",
+    "10",
+    "15",
+    "20",
+    "25",
+    "250",
+    "30",
+    "5",
+    "500",
+    "\\substack{P_B\\\\(\\mathrm{MW})}",
+    "\\substack{P_G\\\\(\\mathrm{MW})}",
+    "\\substack{P_L\\\\(\\mathrm{MW})}",
+    "t\\;(\\mathrm{s})"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "start_utc": "2026-10-26T21:40:00.305841+00:00",
+  "finish_utc": "2026-10-26T21:40:58.708993+00:00",
+  "pscad_version": "5.1.0",
+  "compiler": "GFortran 8.1 (64-bit)",
+  "duration_s": 30,
+  "time_step_us": 10,
+  "sample_step_us": 100,
+  "project_sha256": "957b2293722ea78af2ec71dcf37bf723490cd6530c461bbe6e33681d92b0e278",
+  "project_unchanged_during_run": true,
+  "fresh_outputs": true,
+  "errors": [],
+  "output_sha256": {
+    "DataCenter_Com_BESS.inf": "58a16ed47921c5615d2dacdbad820f090f3303387071fed199f50743ea2b8a95",
+    "DataCenter_Com_BESS_01.out": "64742680eea4582f1f26a2f2e205893d963e7d6f75039744ccf9b2d96bf14ce2",
+    "DataCenter_Com_BESS_02.out": "19872884eb92a9fffa2ab72e62c3f47544610e497465d84f78b7deed55742d1a",
+    "DataCenter_Com_BESS_03.out": "f76c2d3f3e11cc390f9e9bf9b50fed874b3c8c084e337a473f6064c4f007485c",
+    "DataCenter_Com_BESS_04.out": "82d2961e1fa14833bbc9da0f3bb90fe4297df963153685d73dbaa14cc788b232",
+    "DataCenter_Com_BESS_05.out": "cfaaf7117f0518031d5e3b626990daceedd645231c4ac862a9ef0d1472f17ab7",
+    "DataCenter_Com_BESS_06.out": "31f907b35ac4a31cc6e8dcf0bdc0878c6c9a1c859692ae97dc99fa158c801cf4"
+  },
+  "initial_soc": 50,
+  "test_mode": 0,
+  "experiment": null
+}

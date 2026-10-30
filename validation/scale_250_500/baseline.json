@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-10-26T21:24:21.975878+00:00",
+  "folder": "history/before_250_500MW_20261026_182420",
+  "project_sha256": {
+    "DataCenter_Sem_BESS.pscx": "e7db25a8492c96dfe57ca6db75ccad211bef3146f24d840c2f29097b98ffa6ba",
+    "DataCenter_Com_BESS.pscx": "43d3cf44c00ab634a55dffbe7a51d92c8544f811596184544c5bc1189590b902",
+    "DataCenter_Gerador_Sem_BESS.pscx": "47829deb52d8500448baa2497f8821ba94b44a5d251f98165649b01fca6b534d",
+    "DataCenter_Gerador_Com_BESS.pscx": "e22e1908411b2616da293d7e6e3553cbe627f8d55598bb5027285f9e3e6de7ae"
+  },
+  "old_validation": "validation/generator/validation.json",
+  "old_packages": "delivery/generator_package_verification.json"
+}

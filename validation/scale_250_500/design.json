@@ -1,0 +1,19 @@
+{
+  "power_base_MVA": 1000.0,
+  "HV_kV": 230.0,
+  "PCC_kV": 34.5,
+  "generator_kV": 20.0,
+  "BESS_MW": 250,
+  "BESS_MWh": 125,
+  "parallel_modules": 50,
+  "battery_kAh": 83.33333333333333,
+  "source_Scc_MVA": 50000,
+  "feeder_R_ohm": 0.0025,
+  "canonical_names": [
+    "DataCenter_Sem_BESS",
+    "DataCenter_Com_BESS",
+    "DataCenter_Gerador_Sem_BESS",
+    "DataCenter_Gerador_Com_BESS"
+  ],
+  "baseline_folder": "history/before_250_500MW_20261026_182420"
+}

@@ -12,6 +12,8 @@ The current English video illustrates abrupt loads, a parallel BESS and the obse
 
 The latest video has five scenes, ends on measured power results, and uses the corrected converter symbol: AC at the upper bus connection and DC at the lower battery connection. Electrical smoothing is measured; the shaft traces do not establish a convergence-validated torsional damping improvement.
 
+After cloning, run `py -3.11 scripts/restore_video_data.py` to reconstruct the original raw video data from the three included transport parts. Each part and the final archive are checked against their SHA-256 hashes. The final MP4 can be viewed directly.
+
 ## PSCAD study
 
 A revisão atual contém **quatro simulações com carga intermitente de 250–500 MW**: fonte ideal ou gerador acionado por turbina a gás com eixo multimassa, cada um com e sem BESS de 250 MW/125 MWh.

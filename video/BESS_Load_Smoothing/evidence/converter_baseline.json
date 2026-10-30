@@ -1,0 +1,188 @@
+{
+  "history_folder": "C:\\CODES\\data-center\\video\\BESS_Load_Smoothing\\history\\before_converter_symbol_fix_20261030_134152",
+  "preserved_files": {
+    "assets/battery.svg": {
+      "sha256": "f7f492feb4a50d0f5d5b2537cd9cf87d42d50ac92a27eb4f8f94cb91c2c5f1d3",
+      "bytes": 1012
+    },
+    "assets/converter.svg": {
+      "sha256": "2918614b54ae6bf6bf87863db02e3a3f3b397ba1890727d27039283830b0be4b",
+      "bytes": 1205
+    },
+    "assets/generator.svg": {
+      "sha256": "d45ab6e48f35570075fdb07aa604c4bd8751a83819f79667b054b411020f3d9b",
+      "bytes": 885
+    },
+    "assets/load.svg": {
+      "sha256": "d96ab4da56b49275614d6f96fad75ae0a2fa4f2cf7c044817377e9a91c7084bf",
+      "bytes": 363
+    },
+    "assets/motor.svg": {
+      "sha256": "e5c497a7ada99eff2d0d5f2b5e1647879d903f104174b55b8ea46296c0ee6d57",
+      "bytes": 806
+    },
+    "assets/parallel_single_line.svg": {
+      "sha256": "4cf1299593f1d1a284e6a98df8b9659499351094dfdefb5a896202b3e0302ed5",
+      "bytes": 2949
+    },
+    "data_pipeline.py": {
+      "sha256": "7014180b7d83385a0ef42e47bf0e6f0f935b8ae4ce453008e96da3c135874534",
+      "bytes": 8139
+    },
+    "diagram_assets.py": {
+      "sha256": "476e720650578c67edce3f720f3e0539c7dd863431c838aef89b1e40941eefbe",
+      "bytes": 2040
+    },
+    "evidence/contact_sheet_final.jpg": {
+      "sha256": "ff75d5fa535f5bd489adc6afde45a6f96c2bec36c13551b56b894e8eaf3c61c4",
+      "bytes": 396982
+    },
+    "evidence/delivery_verification.json": {
+      "sha256": "72cbbeb8875355001ec10a0c4fd6adc18bf606841ba32820485d0a2378671a1b",
+      "bytes": 8185
+    },
+    "evidence/edit_baseline.json": {
+      "sha256": "7a0c3ed489ca71838f62614ddb599466874d1bc93bac902acb57183309f533ef",
+      "bytes": 5315
+    },
+    "evidence/existing_pscad_validation.json": {
+      "sha256": "a8a1a3dedf84513bd9dba5155bbee3c75b88c2724608a88dc0777ef7045d9f0f",
+      "bytes": 40302
+    },
+    "evidence/final_probe.json": {
+      "sha256": "5997041bb6fd3fe12f6c8306caf550ffa72ca074565a61aa2d893d9f67f10e65",
+      "bytes": 3468
+    },
+    "evidence/final_timeline.json": {
+      "sha256": "6d16a57e7ac873fca92bc8f816b237d4c7bbaaa5a35bdcb40bb28bfdc8fdf24c",
+      "bytes": 582
+    },
+    "evidence/frames_final/ParallelBuffer_a.png": {
+      "sha256": "fb62133576e92abf830f273e6e430c3518953690bb411cf062b80fc82a032631",
+      "bytes": 181911
+    },
+    "evidence/frames_final/ParallelBuffer_b.png": {
+      "sha256": "a15d847479e46b27a73e13e97674d7ec8aa1e0f389786dab680d742025547e2b",
+      "bytes": 178780
+    },
+    "evidence/inventories/ParallelBuffer.json": {
+      "sha256": "54a429fa0c76f5aadd36d9cfe694daab8742fb6ee8b054485c16a5a9095f2419",
+      "bytes": 289
+    },
+    "evidence/logs/final_ParallelBuffer.log": {
+      "sha256": "1affead1d92ed2c23669b3298c8ec1818f615a98ad43851f3d2a6bc3b17af53d",
+      "bytes": 222
+    },
+    "evidence/package_verification.json": {
+      "sha256": "6c3c3d664895b1d293a17504229009096b89a35fe7b35ea2c925982e9d2f7c12",
+      "bytes": 256
+    },
+    "evidence/preview_probe.json": {
+      "sha256": "f6f0425bef9f6b352363e0d6fd31d477d000803ececaff62390c2b42f6500dd8",
+      "bytes": 3475
+    },
+    "evidence/preview_timeline.json": {
+      "sha256": "943b28fa6214de5e5bea36955f2a15bfc21be2cc7dc1f2b0f158063e1447bc3c",
+      "bytes": 910
+    },
+    "evidence/revision_baseline.json": {
+      "sha256": "fe639361e0ad6ea9f099aee35d766a3e22f73fa8bf1c8b9b3745fb3242e06ce4",
+      "bytes": 4083
+    },
+    "evidence/scene_posters/ParallelBuffer.png": {
+      "sha256": "f3c0a45e155635601d71f71c6e5c5265aeecd5b995bc97a913cf1c995b84430a",
+      "bytes": 76903
+    },
+    "evidence/shaft_twist_revision.json": {
+      "sha256": "970afb0ec4ed325e8fd2fa421c50ede3f3360871d5c6cad1992b79d21ac15efd",
+      "bytes": 1135
+    },
+    "evidence/source_suite.json": {
+      "sha256": "b52bb376e8b6190513a5c46482ea82c743ce9cb9ad53aafa97aac4ae4d59ef91",
+      "bytes": 1046
+    },
+    "evidence/visual_review.json": {
+      "sha256": "37e8f950d8cc8d36c20820dbe8807b56e4af97fd0830293d2532dcda441a17be",
+      "bytes": 2459
+    },
+    "media/final/videos/scenes/1080p30/ParallelBuffer.mp4": {
+      "sha256": "76ed5d51df59c0142b990c53ed0436aa4fa8510e5fb203346f7437245ed57b9d",
+      "bytes": 600720
+    },
+    "output/BESS_Abrupt_Loads_1080p.mp4": {
+      "sha256": "bd660029c89ade1464e8b4c8e9a25507613f27d0e861f0fc80ad89d290f25f22",
+      "bytes": 3744842
+    },
+    "output/BESS_Abrupt_Loads_Complete.zip": {
+      "sha256": "dc19957f052077fade881f9ed80f3704668b93967ccb9307cdfba706b56743f3",
+      "bytes": 87335803
+    },
+    "output/MANIFEST.json": {
+      "sha256": "8d083bf8d67b518718c168d47e4a9dd6ba6478424e05a1cfc7c90a9656463c3d",
+      "bytes": 17037
+    },
+    "package_video.py": {
+      "sha256": "e3ad921e88edb47df91b71d36712d24617e1468e04a69d3e3efc27b028eb41f7",
+      "bytes": 3361
+    },
+    "README.md": {
+      "sha256": "5cb07fad14a35e77b29888f48e23c9594e8386268c2d0cd110bc77489aef7f3f",
+      "bytes": 10347
+    },
+    "render_video.py": {
+      "sha256": "9501787ec6edb5fb752ad8adf4f5294a52a2cfaa8b39d972710d8efcb613d2dd",
+      "bytes": 4748
+    },
+    "scenes.py": {
+      "sha256": "dcf9560740019396309734f3d2018d634469b30a821c5468157b05925d3db412",
+      "bytes": 10569
+    },
+    "shaft_twist.py": {
+      "sha256": "a09919bea3cc62884403827fdea6c90d89a54530de51a09bacef4e3ad020cbff",
+      "bytes": 2991
+    },
+    "source_reader.py": {
+      "sha256": "60a7d73dd210ce25945d7b01c560cf9ed9c7dfcf6e9b6742bf39ce1a10adda11",
+      "bytes": 3087
+    },
+    "test_data_pipeline.py": {
+      "sha256": "bfab7b4f6c589687be9dbbfb2d47fe757c18ae4e675356bfece500a242faafde",
+      "bytes": 1307
+    },
+    "test_shaft_twist.py": {
+      "sha256": "643f7436f7d5676666d8aaf9b0f995902ffa951724b0e5eca1a8c9ae170b49cd",
+      "bytes": 1593
+    },
+    "twist_visuals.py": {
+      "sha256": "66aa4ee1dce4df2fa99ecf3d46ceecf870f4d92d4ea3be91a97a97b18de9b4c9",
+      "bytes": 3815
+    },
+    "verify_delivery.py": {
+      "sha256": "9e27a55d96a11d4e15035ecc45761fe8e95ae38d5de87e2dfac6be81d2935093",
+      "bytes": 10378
+    },
+    "visuals.py": {
+      "sha256": "982d276a2d14fcf28c5e82e89735da5d33ddac263446c026a7c816487b0ffb9e",
+      "bytes": 6671
+    }
+  },
+  "previous_chapters_sha256": {
+    "Applications.mp4": "66c93327801a5f92c5df1ab44124b58b24887593f6b74dd5247ff4ea209fe6d4",
+    "MeasuredBenefits.mp4": "b763516b454b436383335f55af1a5c8c59563889ed8bf5cdbe6f3465fa47772f",
+    "ParallelBuffer.mp4": "76ed5d51df59c0142b990c53ed0436aa4fa8510e5fb203346f7437245ed57b9d",
+    "PowerComparison.mp4": "b88793413ab582479529a0785ec561ffc9b71fa5e45a4f9bd169dd3489e2da57",
+    "ScopeAndLimits.mp4": "d602742fd79d70a836d59f4448772e67d0d583d55e7b70f577f40b3693e69dcd",
+    "ShaftMechanism.mp4": "b3854ae16363bb1f3d78352926be40eb2d2515a4f863ed921e79c55adecbada1",
+    "TorqueComparison.mp4": "e70cd132031c8eeaa541f04be0c5a9ae61790a0f076f76f24f1be9c0bc357e21"
+  },
+  "previous_assets_sha256": {
+    "battery.svg": "f7f492feb4a50d0f5d5b2537cd9cf87d42d50ac92a27eb4f8f94cb91c2c5f1d3",
+    "converter.svg": "2918614b54ae6bf6bf87863db02e3a3f3b397ba1890727d27039283830b0be4b",
+    "generator.svg": "d45ab6e48f35570075fdb07aa604c4bd8751a83819f79667b054b411020f3d9b",
+    "load.svg": "d96ab4da56b49275614d6f96fad75ae0a2fa4f2cf7c044817377e9a91c7084bf",
+    "motor.svg": "e5c497a7ada99eff2d0d5f2b5e1647879d903f104174b55b8ea46296c0ee6d57",
+    "parallel_single_line.svg": "4cf1299593f1d1a284e6a98df8b9659499351094dfdefb5a896202b3e0302ed5"
+  },
+  "revised_scene": "ParallelBuffer",
+  "correction": "AC sine wave adjacent to the top bus; DC solid-over-dashed mark adjacent to the bottom battery. Preserve timing, motion, data and other four active chapters."
+}

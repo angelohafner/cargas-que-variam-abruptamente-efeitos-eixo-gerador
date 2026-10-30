@@ -1,0 +1,99 @@
+{
+  "history_folder": "C:\\CODES\\data-center\\video\\BESS_Load_Smoothing\\history\\before_shaft_twist_revision_20261030_115715",
+  "preserved_files": {
+    "output/BESS_Abrupt_Loads_1080p.mp4": {
+      "sha256": "6a9b68844c07ba532295a796fd99fc50ddc0eb0b3a69facd27235627791b0146",
+      "bytes": 4061289
+    },
+    "output/BESS_Abrupt_Loads_Complete.zip": {
+      "sha256": "f5b22a521551e45c163473b89dbddc7403fe4c01eb848681ba3b6ba29151bf62",
+      "bytes": 86635265
+    },
+    "data_pipeline.py": {
+      "sha256": "7014180b7d83385a0ef42e47bf0e6f0f935b8ae4ce453008e96da3c135874534",
+      "bytes": 8139
+    },
+    "diagram_assets.py": {
+      "sha256": "476e720650578c67edce3f720f3e0539c7dd863431c838aef89b1e40941eefbe",
+      "bytes": 2040
+    },
+    "package_video.py": {
+      "sha256": "02444f6cb40b47f068f2a110a73d3f9aa01ff629869ba047cd60da088e9df59c",
+      "bytes": 2838
+    },
+    "render_video.py": {
+      "sha256": "707ce73cba49f9ce17bea0321e50bdcad3fe9cbf340b51db9873023e0953e758",
+      "bytes": 4717
+    },
+    "scenes.py": {
+      "sha256": "83ce50be98676da10069d2e0301c83c5daa9332bac7608e0c79baa7f856c97e9",
+      "bytes": 11821
+    },
+    "source_reader.py": {
+      "sha256": "60a7d73dd210ce25945d7b01c560cf9ed9c7dfcf6e9b6742bf39ce1a10adda11",
+      "bytes": 3087
+    },
+    "test_data_pipeline.py": {
+      "sha256": "bfab7b4f6c589687be9dbbfb2d47fe757c18ae4e675356bfece500a242faafde",
+      "bytes": 1307
+    },
+    "verify_delivery.py": {
+      "sha256": "f89deb928456d53b44eb38454648774bc692be160cd850ce587883dd41a2ad32",
+      "bytes": 6708
+    },
+    "visuals.py": {
+      "sha256": "982d276a2d14fcf28c5e82e89735da5d33ddac263446c026a7c816487b0ffb9e",
+      "bytes": 6671
+    },
+    "README.md": {
+      "sha256": "b1ad696cceafcf0a4a4f971bd0674e6164439eece75d5e362a0e0bae559468f5",
+      "bytes": 8586
+    },
+    "evidence/delivery_verification.json": {
+      "sha256": "aa6af87397392f3e6f8ca7dd816c5b1277afb49d502b03235380b495b54d5a9b",
+      "bytes": 6343
+    },
+    "evidence/existing_pscad_validation.json": {
+      "sha256": "a8a1a3dedf84513bd9dba5155bbee3c75b88c2724608a88dc0777ef7045d9f0f",
+      "bytes": 40302
+    },
+    "evidence/final_probe.json": {
+      "sha256": "4f5b13823913705a55098fbeae7759a1765163d8322e45fc55ffe65403c47a49",
+      "bytes": 3471
+    },
+    "evidence/final_timeline.json": {
+      "sha256": "3eff7c6568bfc1819d719521011c95fbd7133007dd5104b51b530bbea5936180",
+      "bytes": 866
+    },
+    "evidence/package_verification.json": {
+      "sha256": "66c1791d485f0bdf130caa04b85c256f4b4ad01d0379ec2d72124f1a0bc9e70a",
+      "bytes": 256
+    },
+    "evidence/preview_probe.json": {
+      "sha256": "f6f0425bef9f6b352363e0d6fd31d477d000803ececaff62390c2b42f6500dd8",
+      "bytes": 3475
+    },
+    "evidence/preview_timeline.json": {
+      "sha256": "943b28fa6214de5e5bea36955f2a15bfc21be2cc7dc1f2b0f158063e1447bc3c",
+      "bytes": 910
+    },
+    "evidence/source_suite.json": {
+      "sha256": "b52bb376e8b6190513a5c46482ea82c743ce9cb9ad53aafa97aac4ae4d59ef91",
+      "bytes": 1046
+    },
+    "evidence/visual_review.json": {
+      "sha256": "dcf08199290d6439ffb36ffe0d15085650ba545d9f2838d1110be758af0d6700",
+      "bytes": 1462
+    }
+  },
+  "previous_chapters_sha256": {
+    "Applications.mp4": "66c93327801a5f92c5df1ab44124b58b24887593f6b74dd5247ff4ea209fe6d4",
+    "MeasuredBenefits.mp4": "b763516b454b436383335f55af1a5c8c59563889ed8bf5cdbe6f3465fa47772f",
+    "ParallelBuffer.mp4": "76ed5d51df59c0142b990c53ed0436aa4fa8510e5fb203346f7437245ed57b9d",
+    "PowerComparison.mp4": "b88793413ab582479529a0785ec561ffc9b71fa5e45a4f9bd169dd3489e2da57",
+    "ScopeAndLimits.mp4": "d602742fd79d70a836d59f4448772e67d0d583d55e7b70f577f40b3693e69dcd",
+    "ShaftMechanism.mp4": "479f80c932caadf9c1d90367d7168b6360643c358553ffb923374700bb59ba75",
+    "TorqueComparison.mp4": "e70cd132031c8eeaa541f04be0c5a9ae61790a0f076f76f24f1be9c0bc357e21"
+  },
+  "source_display_sha256": "a65107b128b0387e417857557285a0cdab7e5f5e059c73c0f8644947c004366e"
+}

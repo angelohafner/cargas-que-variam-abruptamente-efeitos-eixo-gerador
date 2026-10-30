@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "target": "video/BESS_Load_Smoothing/data/raw_selected.npz",
+  "bytes": 66501674,
+  "sha256": "6a4284ed7a52e6ad91f0fe0b90780449949dc429df901f27bd89b108ce93c657",
+  "parts": [
+    {
+      "name": "raw_selected.npz.part001",
+      "bytes": 25165824,
+      "sha256": "33a6f943fff6ab63ff496c8a66a56eac5966187886ea669cf348944cf30d415f"
+    },
+    {
+      "name": "raw_selected.npz.part002",
+      "bytes": 25165824,
+      "sha256": "54f7fd4b2487d66622ac87246e0abf7e66f2be2b1ac1a3baa91354f09bc52198"
+    },
+    {
+      "name": "raw_selected.npz.part003",
+      "bytes": 16170026,
+      "sha256": "dbdfafa3d8f5c0d69377239fe8fcf77d2d751616ded6cce0d79d1abe8d0b02e1"
+    }
+  ]
+}

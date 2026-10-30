@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE",
+  "created_utc": "2026-10-26T21:28:36.728236+00:00",
+  "cases": {
+    "soc_low": "results/scale_250_500/soc_low_20261026_182842",
+    "soc_high": "results/scale_250_500/soc_high_20261026_182913",
+    "pulse_generator_base": "results/scale_250_500/pulse_generator_base_20261026_182948",
+    "pulse_generator_base_fine": "results/scale_250_500/pulse_generator_base_fine_20261026_183031",
+    "pulse_generator_bess": "results/scale_250_500/pulse_generator_bess_20261026_183115",
+    "pulse_generator_bess_fine": "results/scale_250_500/pulse_generator_bess_fine_20261026_183220",
+    "profile_generator_bess_fine": "results/scale_250_500/profile_generator_bess_fine_20261026_183346",
+    "ideal_base": "results/scale_250_500/ideal_base_final_20261026_183936",
+    "ideal_bess": "results/scale_250_500/ideal_bess_final_20261026_184000",
+    "generator_base": "results/scale_250_500/generator_base_final_20261026_184104",
+    "generator_bess": "results/scale_250_500/generator_bess_final_20261026_184155"
+  }
+}

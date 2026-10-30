@@ -1,0 +1,122 @@
+[
+  {
+    "project": "DataCenter_Sem_BESS",
+    "kind": "network",
+    "file": "figures/scale_250_500/native/DataCenter_Sem_BESS_network.png",
+    "size_px": [
+      3445,
+      2793
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Sem_BESS",
+    "kind": "electrical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Sem_BESS_electrical_graphs.png",
+    "size_px": [
+      5004,
+      3303
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Com_BESS",
+    "kind": "network",
+    "file": "figures/scale_250_500/native/DataCenter_Com_BESS_network.png",
+    "size_px": [
+      7620,
+      3873
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Com_BESS",
+    "kind": "electrical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Com_BESS_electrical_graphs.png",
+    "size_px": [
+      5004,
+      3303
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Sem_BESS",
+    "kind": "network",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Sem_BESS_network.png",
+    "size_px": [
+      3402,
+      2793
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Sem_BESS",
+    "kind": "electrical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Sem_BESS_electrical_graphs.png",
+    "size_px": [
+      5004,
+      3303
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Sem_BESS",
+    "kind": "generator",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Sem_BESS_generator.png",
+    "size_px": [
+      3616,
+      3280
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Sem_BESS",
+    "kind": "mechanical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Sem_BESS_mechanical_graphs.png",
+    "size_px": [
+      5004,
+      3465
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Com_BESS",
+    "kind": "network",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Com_BESS_network.png",
+    "size_px": [
+      7476,
+      3873
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Com_BESS",
+    "kind": "electrical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Com_BESS_electrical_graphs.png",
+    "size_px": [
+      5004,
+      3303
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Com_BESS",
+    "kind": "generator",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Com_BESS_generator.png",
+    "size_px": [
+      3616,
+      3280
+    ],
+    "source": "PSCAD native rendered clipboard"
+  },
+  {
+    "project": "DataCenter_Gerador_Com_BESS",
+    "kind": "mechanical_graphs",
+    "file": "figures/scale_250_500/native/DataCenter_Gerador_Com_BESS_mechanical_graphs.png",
+    "size_px": [
+      5004,
+      3465
+    ],
+    "source": "PSCAD native rendered clipboard"
+  }
+]

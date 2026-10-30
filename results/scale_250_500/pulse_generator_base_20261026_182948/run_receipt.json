@@ -1,0 +1,42 @@
+{
+  "start_utc": "2026-10-26T21:29:48.086936+00:00",
+  "finish_utc": "2026-10-26T21:30:25.100143+00:00",
+  "pscad_version": "5.1.0",
+  "compiler": "GFortran 8.1 (64-bit)",
+  "duration_s": 20,
+  "time_step_us": 10,
+  "sample_step_us": 200,
+  "project_sha256": "db6483b501b5efc29bd1b8de41f8025f997af1a985ef44e8353d760209ea4f33",
+  "project_unchanged_during_run": true,
+  "fresh_outputs": true,
+  "errors": [],
+  "output_sha256": {
+    "DataCenter_Gerador_Sem_BESS.inf": "ace9844379adab9757ee878e3bf45eb5635b6fa2ffeef8e636431d76d0cf89f1",
+    "DataCenter_Gerador_Sem_BESS_01.out": "94007a8daee059e774953323dd9d65f774613da9a4f32225c2d76cd2fc84e07b",
+    "DataCenter_Gerador_Sem_BESS_02.out": "6c8bd2d436edb030a71451e5161ad26512a4e61ee71efeeef9518b3b0cbb4bc6",
+    "DataCenter_Gerador_Sem_BESS_03.out": "68d6696d90605cad222ab9bd1d6448bb9631c96a0b8425e8ff0df7931b49ce04",
+    "DataCenter_Gerador_Sem_BESS_04.out": "b16fb6e94f88fbdebffc00dccc70bb3f1843331edec8ffaf861d5db50dbeccc4",
+    "DataCenter_Gerador_Sem_BESS_05.out": "85caf52579bfb2411c70d5eccbc65f90b8cc7af52f0e4af7032bb007a212bbcb",
+    "DataCenter_Gerador_Sem_BESS_06.out": "46c945de25a509d4c3ad0cda7e946e71a43ab5066d72566e32cda37eaa95b5d2"
+  },
+  "initial_soc": 50,
+  "test_mode": 0,
+  "experiment": {
+    "Mode": 2.0,
+    "Pbase": 250.0,
+    "Amplitude": 25.0,
+    "Start": 5.0,
+    "Duration": 20.0,
+    "PulseWidth": 0.025,
+    "Fstart": 5.0,
+    "Fend": 30.0,
+    "Fsine": 10.61087357,
+    "Tmachine": 0.3,
+    "Trelease": 1.2,
+    "Demand": "P_experiment_MW",
+    "ModeOut": "ExcitationMode",
+    "Fexc": "Excitation_Hz",
+    "Machine": "Machine_enabled",
+    "Release": "Rotor_released"
+  }
+}

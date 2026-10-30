@@ -1,0 +1,352 @@
+{
+  "status": "PASS",
+  "scope": "Validation of a separate copy containing only the files selected for GitHub. No native PSCAD rerun.",
+  "project_unit_tests": {
+    "passed": 14,
+    "failed": 0
+  },
+  "portable_video_verification": {
+    "status": "PASS",
+    "checks_passed": 60,
+    "checks_total": 60,
+    "video_sha256": "05960ca5568ed0319e8439f738af55fd745dcac57b393635c84c75f064ecf8b5",
+    "video_bytes": 3746084,
+    "video_duration_s": 88.3,
+    "decoded_frames": 2649,
+    "original_project_verification": "Skipped; portable package mode",
+    "checks": [
+      {
+        "name": "full_hd",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "frame_rate",
+        "status": "PASS",
+        "detail": "30/1"
+      },
+      {
+        "name": "portable_h264",
+        "status": "PASS",
+        "detail": {
+          "codec": "h264",
+          "pixel_format": "yuv420p"
+        }
+      },
+      {
+        "name": "approved_five_scene_order",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "duration_matches_timeline",
+        "status": "PASS",
+        "detail": "88.300000"
+      },
+      {
+        "name": "five_chapters",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "chapter_titles",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "ends_on_measured_results",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "full_video_decode",
+        "status": "PASS",
+        "detail": 2649
+      },
+      {
+        "name": "strictly_increasing_frame_timestamps",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "no_missing_time",
+        "status": "PASS",
+        "detail": {
+          "decoded_frames": 2649,
+          "first_s": 0.0,
+          "last_s": 88.26666666666667
+        }
+      },
+      {
+        "name": "raw_archive_hash",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "display_archive_hash",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "same_raw_timeline",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "same_raw_load_command",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_source_sampling",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_duration",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Pgen_MW_metrics_reproduced",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Pgrid_MW_metrics_reproduced",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Shaft_T12_pu_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Shaft_T23_pu_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Shaft_theta1_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Shaft_theta2_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_Shaft_theta3_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_snapshot_hash",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_source_sampling",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_duration",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Pgen_MW_metrics_reproduced",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Pgrid_MW_metrics_reproduced",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Shaft_T12_pu_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Shaft_T23_pu_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Shaft_theta1_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Shaft_theta2_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_Shaft_theta3_rad_unfiltered",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_snapshot_hash",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "official_schemdraw_identity",
+        "status": "PASS",
+        "detail": []
+      },
+      {
+        "name": "five_active_scene_inventories",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "numerals_excluded_from_plain_text",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "no_data_center_on_screen",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "latex_inventory_present",
+        "status": "PASS",
+        "detail": 53
+      },
+      {
+        "name": "contextual_torsion_note_visible",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "removed_slide_text_absent",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "four_generic_load_examples",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "twist_summary_reproduced",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "twist_common_gain_visible",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "without_twist_zero_pre_step_mean",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "with_twist_zero_pre_step_mean",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "twist_visible_excursion",
+        "status": "PASS",
+        "detail": 56.08378635984724
+      },
+      {
+        "name": "twist_with_bess_uses_same_scale",
+        "status": "PASS",
+        "detail": 3.1518575357028955
+      },
+      {
+        "name": "chapter_timing_unchanged",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "original_display_data_unchanged",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "only_converter_assets_changed",
+        "status": "PASS",
+        "detail": [
+          "converter.svg",
+          "parallel_single_line.svg"
+        ]
+      },
+      {
+        "name": "render_log_final_Applications",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "render_log_final_ParallelBuffer",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "render_log_final_PowerComparison",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "render_log_final_ShaftMechanism",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "render_log_final_MeasuredBenefits",
+        "status": "PASS",
+        "detail": null
+      },
+      {
+        "name": "data_pipeline_tests",
+        "status": "PASS",
+        "detail": "...........\n----------------------------------------------------------------------\nRan 11 tests in 0.096s\n\nOK\n"
+      },
+      {
+        "name": "visual_review",
+        "status": "PASS",
+        "detail": "Current converter correction: inspected full-resolution discharge and charge frames decoded from the final video. The AC sine wave is in the upper bus-connected half; the DC solid-over-dashed mark is in the lower battery-connected half, both legible and unclipped. Earlier five-chapter and shaft reviews remain applicable to the four unchanged clips; their hashes and full-video decoding are checked separately."
+      },
+      {
+        "name": "converter_visual_review",
+        "status": "PASS",
+        "detail": null
+      }
+    ]
+  },
+  "portable_video_package_verification": {
+    "status": "PASS",
+    "zip": "BESS_Abrupt_Loads_Complete.zip",
+    "files": 113,
+    "bytes": 87343658,
+    "sha256": "2a502c532800bc035d92943325012501bccf68c989de14c7952b8b6588da2274",
+    "CRC": "PASS",
+    "all_payload_hashes": "PASS",
+    "errors": []
+  },
+  "notes": [
+    "Eleven video numerical tests are included in the portable video verification.",
+    "Original full-workspace verification remains in video/BESS_Load_Smoothing/evidence/delivery_verification.json.",
+    "The portable ZIP was rebuilt and checked; duplicate ZIP files are excluded from GitHub."
+  ],
+  "raw_archive_restoration": {
+    "status": "PASS",
+    "bytes": 66501674,
+    "sha256": "6a4284ed7a52e6ad91f0fe0b90780449949dc429df901f27bd89b108ce93c657",
+    "parts": 3,
+    "scope": "Reconstructed in a separate directory with no original data file; byte-identical SHA-256 confirmed."
+  }
+}

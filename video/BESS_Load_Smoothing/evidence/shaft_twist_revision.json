@@ -1,0 +1,31 @@
+{
+  "reference_window_s": [
+    1.8,
+    1.95
+  ],
+  "reference_interval": "left-inclusive, right-exclusive",
+  "event_window_s": [
+    1.8,
+    2.8
+  ],
+  "visual_gain_for_both_cases": 200.0,
+  "units": "Physical readouts in mrad; amplified pointer deflections in radians.",
+  "method": "(theta2-theta3) minus the pre-step mean, with no filtering or independent normalization.",
+  "limitation": "Observed event only; BESS torsional amplitudes remain timestep sensitive. No damping benefit is quantified.",
+  "cases": {
+    "without": {
+      "baseline_mean_change_rad": 1.358866722848499e-19,
+      "minimum_change_mrad": -0.012645558932102355,
+      "maximum_change_mrad": 4.894233644822098,
+      "peak_absolute_change_mrad": 4.894233644822098,
+      "peak_visual_deflection_deg": 56.08378635984724
+    },
+    "with": {
+      "baseline_mean_change_rad": -4.915049848600953e-19,
+      "minimum_change_mrad": -0.044871538622148766,
+      "maximum_change_mrad": 0.27505145775905127,
+      "peak_absolute_change_mrad": 0.27505145775905127,
+      "peak_visual_deflection_deg": 3.1518575357028955
+    }
+  }
+}

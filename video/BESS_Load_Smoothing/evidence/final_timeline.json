@@ -1,0 +1,32 @@
+[
+  {
+    "scene": "Applications",
+    "title": "Abrupt loads",
+    "start_s": 0.0,
+    "end_s": 12.2
+  },
+  {
+    "scene": "ParallelBuffer",
+    "title": "Parallel BESS",
+    "start_s": 12.2,
+    "end_s": 29.8
+  },
+  {
+    "scene": "PowerComparison",
+    "title": "Power comparison",
+    "start_s": 29.8,
+    "end_s": 52.0
+  },
+  {
+    "scene": "ShaftMechanism",
+    "title": "Shaft twist",
+    "start_s": 52.0,
+    "end_s": 76.6
+  },
+  {
+    "scene": "MeasuredBenefits",
+    "title": "Measured benefits",
+    "start_s": 76.6,
+    "end_s": 88.3
+  }
+]

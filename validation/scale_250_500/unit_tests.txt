@@ -1,0 +1,19 @@
+test_missing_channel_not_silently_zero_filled (test_analysis.AnalysisContract.test_missing_channel_not_silently_zero_filled) ... ok
+test_ramp_and_energy_have_physical_units (test_analysis.AnalysisContract.test_ramp_and_energy_have_physical_units) ... ok
+test_recorded_mapping_and_modified_data_rejected (test_analysis.AnalysisContract.test_recorded_mapping_and_modified_data_rejected) ... ok
+test_bess_contains_actual_battery_and_six_igbts (test_artifacts.NativeModelContract.test_bess_contains_actual_battery_and_six_igbts) ... ok
+test_both_editable_models_exist (test_artifacts.NativeModelContract.test_both_editable_models_exist) ... ok
+test_two_native_generator_multimass_cases (test_generator_artifacts.GeneratorArtifacts.test_two_native_generator_multimass_cases) ... ok
+test_all_four_saved_cases_use_new_intermitent_profile (test_scale_250_500.RatingScaling.test_all_four_saved_cases_use_new_intermitent_profile) ... ok
+test_load_profile_endpoints_and_intermediate_positions (test_scale_250_500.RatingScaling.test_load_profile_endpoints_and_intermediate_positions) ... ok
+test_network_voltage_drop_and_losses_preserve_pu (test_scale_250_500.RatingScaling.test_network_voltage_drop_and_losses_preserve_pu) ... ok
+test_ringdown_modes_reject_common_speed_oscillation (test_torsion_identification.ModalIdentification.test_ringdown_modes_reject_common_speed_oscillation) ... ok
+test_stronger_nearby_nonmodal_peak_is_not_called_a_shaft_mode (test_torsion_identification.ModalIdentification.test_stronger_nearby_nonmodal_peak_is_not_called_a_shaft_mode) ... ok
+test_reject_nonphysical_or_incompatible_parameters (test_torsion_math.ShaftModes.test_reject_nonphysical_or_incompatible_parameters) ... ok
+test_stiffness_scaling_and_relative_modes (test_torsion_math.ShaftModes.test_stiffness_scaling_and_relative_modes) ... ok
+test_two_mass_closed_form_and_rigid_mode (test_torsion_math.ShaftModes.test_two_mass_closed_form_and_rigid_mode) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.203s
+
+OK

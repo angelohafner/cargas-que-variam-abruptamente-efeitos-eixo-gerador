@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-26T21:46:16.788358+00:00",
+  "reviewed_images": {
+    "comparacao_quatro_casos.png": "da87d6137f20334668a9558cd2ab99ec143fd4d2c4f8d9d71f5a6c490eed800c",
+    "suavizacao_potencia.png": "a75ffe96e02998450b3c2d8ea85cf4abc6c0d8e92999f1ebf9a82d80b0e6d6b5",
+    "gerador_multimassa.png": "4839981df847a6614ab8561672a6a52b86203d065150aa7f9f7fdb1883032bc1",
+    "modos_torcionais.png": "37fd1ea50a77a087ad7585874ea8fda847070a8388345c334a1381e2656b9c4c",
+    "limites_soc.png": "fe150a5518787cd5e076c149b726d957eac0bc1ba8e128a971085c67d86fc02a",
+    "native/DataCenter_Com_BESS_electrical_graphs.png": "79314e5160248cfac40bf7960e37a6db9db8f14bd3ac0175e3fd21931b4e449b",
+    "native/DataCenter_Gerador_Sem_BESS_electrical_graphs.png": "1b6262ab1ee6cc08753a2a864fcbc8d864d5e83cd67be3f8df702b502e076d40",
+    "native/DataCenter_Gerador_Com_BESS_mechanical_graphs.png": "9e7dd9bd180a40f897afaf9601b1699ebba397310ef16ec6274e1d1bd76e6727",
+    "native/DataCenter_Gerador_Com_BESS_generator.png": "5fd7f13bbbc3e70e43e90186c089562f6780492832bef5918870f5f881cc2bea",
+    "native/DataCenter_Gerador_Com_BESS_network.png": "1d67fa95ff69196fd1c35090a2f6d0a96bf3e63b6f6ebc6937ccc6a87eef77da",
+    "native/DataCenter_Sem_BESS_network.png": "ce0404e7357cba399f49d3b1f6e3104496cb325e3612b0477470de75f5dbbd9a"
+  },
+  "findings": [
+    "Scientific figure labels, units and legends readable; no clipped traces.",
+    "Native electrical axes show -300..600 MW, -300..300 MW BESS and 0..38 kV PCC over 0..30 s.",
+    "Native generator, three-mass shaft and scaled BESS/network topology visible; labels reflect new rating.",
+    "SOC protection and modal amplitude step sensitivity are explicit; no damping benefit inferred.",
+    "Unreviewed native images are companion exports; all twelve are recorded in native_exports.json."
+  ]
+}

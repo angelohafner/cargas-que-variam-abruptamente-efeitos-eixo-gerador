@@ -1,0 +1,42 @@
+{
+  "text": [
+    "Coupling",
+    "Generator",
+    "Load step",
+    "Slow motion  |  Amplitudes are step-size sensitive",
+    "Turbine",
+    "Twist at the generator shaft",
+    "Visual scale",
+    "With BESS",
+    "Without BESS"
+  ],
+  "math": [
+    "-",
+    ".",
+    "0",
+    "0.25",
+    "0.5",
+    "1",
+    "1.8",
+    "2",
+    "2.2",
+    "2.4",
+    "2.5",
+    "2.6",
+    "2.8",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "\\Delta\\theta_{23}=\\Delta(\\theta_2-\\theta_3)",
+    "\\Delta\\theta_{23}\\;\\mathrm{(mrad)}",
+    "\\mathrm{mrad}",
+    "\\substack{T_{23}\\\\(\\mathrm{pu})}",
+    "\\theta_2-\\theta_3",
+    "\\times200",
+    "t\\;(\\mathrm{s})"
+  ]
+}

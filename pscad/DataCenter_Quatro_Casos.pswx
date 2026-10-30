@@ -1,0 +1,17 @@
+<workspace name="DataCenter_Quatro_Casos" version="5.1.0" crc="4959529">
+  <projects>
+    <project type="project" name="DataCenter_Sem_BESS" filepath="./DataCenter_Sem_BESS.pscx" open="true" />
+    <project type="project" name="DataCenter_Com_BESS" filepath="./DataCenter_Com_BESS.pscx" open="true" />
+    <project type="project" name="DataCenter_Gerador_Sem_BESS" filepath="./DataCenter_Gerador_Sem_BESS.pscx" open="true" />
+    <project type="project" name="DataCenter_Gerador_Com_BESS" filepath="./DataCenter_Gerador_Com_BESS.pscx" open="true" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

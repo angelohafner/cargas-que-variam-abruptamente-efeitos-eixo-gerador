@@ -1,0 +1,8 @@
+manim==0.21.0
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+pillow==12.3.0
+av==18.1.0
+# Schemdraw 0.23 core and electrical elements are vendored with upstream license.
+# System tools: LaTeX, dvisvgm, FFmpeg, FFprobe.

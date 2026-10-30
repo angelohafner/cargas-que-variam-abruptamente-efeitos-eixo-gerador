@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "source_hashes": {
+    "DataCenter_Sem_BESS": "25cf45d5c73bcf7815eb0db176b40e216dbbf7a51684362af9cf1a5f17b3a4af",
+    "DataCenter_Com_BESS": "957b2293722ea78af2ec71dcf37bf723490cd6530c461bbe6e33681d92b0e278",
+    "DataCenter_Gerador_Sem_BESS": "699ad7af1567e213540ae23544919481930a917517efd4c79abe41bd43a1f448",
+    "DataCenter_Gerador_Com_BESS": "de9931ac3f327fe0753251d2596bc5e9ce20acba81ee3c704ec8c9a27ceebbba"
+  },
+  "relative_workspace": true,
+  "clean_build_folder": true,
+  "cases": {
+    "DataCenter_Sem_BESS": {
+      "status": "PASS",
+      "duration_s": 6,
+      "run_folder": "validation/scale_250_500/portability_runs/20261026_184505_829776/ideal_base",
+      "max_abs_differences": {
+        "Pload_MW": 0.0,
+        "Pgrid_MW": 0.0,
+        "Pbess_MW": 0.0,
+        "SOC_pct": 0.0,
+        "Vdc_kV": 0.0,
+        "Vload_kV": 0.0
+      }
+    },
+    "DataCenter_Com_BESS": {
+      "status": "PASS",
+      "duration_s": 6,
+      "run_folder": "validation/scale_250_500/portability_runs/20261026_184505_829776/ideal_bess",
+      "max_abs_differences": {
+        "Pload_MW": 0.0,
+        "Pgrid_MW": 0.0,
+        "Pbess_MW": 0.0,
+        "SOC_pct": 0.0,
+        "Vdc_kV": 0.0,
+        "Vload_kV": 0.0
+      }
+    },
+    "DataCenter_Gerador_Sem_BESS": {
+      "status": "PASS",
+      "duration_s": 6,
+      "run_folder": "validation/scale_250_500/portability_runs/20261026_184505_829776/generator_base",
+      "max_abs_differences": {
+        "Pload_MW": 0.0,
+        "Pgrid_MW": 0.0,
+        "Pbess_MW": 0.0,
+        "SOC_pct": 0.0,
+        "Vdc_kV": 0.0,
+        "Vload_kV": 0.0,
+        "Generator_Hz": 0.0,
+        "Shaft_T12_pu": 0.0,
+        "Shaft_T23_pu": 0.0,
+        "Shaft_rel12_rad_s": 0.0,
+        "Shaft_rel23_rad_s": 0.0
+      }
+    },
+    "DataCenter_Gerador_Com_BESS": {
+      "status": "PASS",
+      "duration_s": 6,
+      "run_folder": "validation/scale_250_500/portability_runs/20261026_184505_829776/generator_bess",
+      "max_abs_differences": {
+        "Pload_MW": 0.0,
+        "Pgrid_MW": 0.0,
+        "Pbess_MW": 0.0,
+        "SOC_pct": 0.0,
+        "Vdc_kV": 0.0,
+        "Vload_kV": 0.0,
+        "Generator_Hz": 0.0,
+        "Shaft_T12_pu": 0.0,
+        "Shaft_T23_pu": 0.0,
+        "Shaft_rel12_rad_s": 0.0,
+        "Shaft_rel23_rad_s": 0.0
+      }
+    }
+  },
+  "canonical_hashes_preserved": true,
+  "canonical_reopened": {
+    "DataCenter_Sem_BESS": "C:\\CODES\\data-center\\pscad\\./\\DataCenter_Sem_BESS.pscx",
+    "DataCenter_Com_BESS": "C:\\CODES\\data-center\\pscad\\./\\DataCenter_Com_BESS.pscx",
+    "DataCenter_Gerador_Sem_BESS": "C:\\CODES\\data-center\\pscad\\./\\DataCenter_Gerador_Sem_BESS.pscx",
+    "DataCenter_Gerador_Com_BESS": "C:\\CODES\\data-center\\pscad\\./\\DataCenter_Gerador_Com_BESS.pscx"
+  }
+}

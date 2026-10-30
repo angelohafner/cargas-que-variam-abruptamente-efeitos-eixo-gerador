@@ -1,0 +1,1599 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "soc_low_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "soc_low_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        458.333333333
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "soc_low_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9808221585170236,
+        0.9952639024950627
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "soc_high_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "soc_high_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        458.333333333
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "soc_high_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9855231353534002,
+        0.9984746835188575
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "pulse_generator_base_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        275.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "pulse_generator_base_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9814616403113341,
+        0.9874567142244631
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "pulse_generator_base_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.99246052324,
+        60.001905556223
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "pulse_generator_base_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 3.3328684668858504e-07,
+      "limit": 0.002
+    },
+    {
+      "name": "pulse_generator_base_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "pulse_generator_base_post_pulse_constant_demand",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_mode1_frequency_error",
+      "status": "PASS",
+      "value": 6.138123799295607e-05,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_base_mode1_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999998972487111,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_base_mode1_peak_to_background",
+      "status": "PASS",
+      "value": 3827.675844973487,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_base_mode2_frequency_error",
+      "status": "PASS",
+      "value": 1.3565971459302617e-05,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_base_mode2_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999995963060979,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_base_mode2_peak_to_background",
+      "status": "PASS",
+      "value": 2079.297976984088,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_base_fine_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_fine_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        275.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "pulse_generator_base_fine_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9814572885141613,
+        0.9874821902477469
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "pulse_generator_base_fine_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_fine_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_fine_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.992461821402,
+        60.001887910114
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "pulse_generator_base_fine_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 2.1123952611293512e-07,
+      "limit": 0.002
+    },
+    {
+      "name": "pulse_generator_base_fine_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "pulse_generator_base_fine_post_pulse_constant_demand",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_base_fine_mode1_frequency_error",
+      "status": "PASS",
+      "value": 5.6245350331332115e-05,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_base_fine_mode1_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999998947510751,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_base_fine_mode1_peak_to_background",
+      "status": "PASS",
+      "value": 4620.271013071546,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_base_fine_mode2_frequency_error",
+      "status": "PASS",
+      "value": 2.10009641810125e-06,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_base_fine_mode2_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999995877716765,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_base_fine_mode2_peak_to_background",
+      "status": "PASS",
+      "value": 4235.168492845776,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_bess_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        275.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9844685282209071,
+        1.0031783525979991
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.990139621396,
+        59.999641379957
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 5.491772394358935e-05,
+      "limit": 0.002
+    },
+    {
+      "name": "pulse_generator_bess_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "pulse_generator_bess_post_pulse_constant_demand",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_mode1_frequency_error",
+      "status": "PASS",
+      "value": 0.001844615784321978,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_bess_mode1_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999995706164873,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_bess_mode1_peak_to_background",
+      "status": "PASS",
+      "value": 41.80178097041498,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_bess_mode2_frequency_error",
+      "status": "PASS",
+      "value": 0.0005365422215041473,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_bess_mode2_shape_MAC",
+      "status": "PASS",
+      "value": 0.999296645504212,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_bess_mode2_peak_to_background",
+      "status": "PASS",
+      "value": 28.675182515864883,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_bess_fine_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_fine_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        275.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_fine_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.986092699740103,
+        1.0025236524460905
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_fine_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_fine_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_fine_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.990937281031,
+        59.999536202653
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "pulse_generator_bess_fine_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 5.641870479589767e-05,
+      "limit": 0.002
+    },
+    {
+      "name": "pulse_generator_bess_fine_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "pulse_generator_bess_fine_post_pulse_constant_demand",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode1_frequency_error",
+      "status": "PASS",
+      "value": 0.004307596145243958,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode1_shape_MAC",
+      "status": "PASS",
+      "value": 0.9999989167872072,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode1_peak_to_background",
+      "status": "PASS",
+      "value": 20.026850788354313,
+      "limit": 5
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode2_frequency_error",
+      "status": "PASS",
+      "value": 0.0025990260979958054,
+      "limit": 0.02
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode2_shape_MAC",
+      "status": "PASS",
+      "value": 0.9989334888924627,
+      "limit": 0.95
+    },
+    {
+      "name": "pulse_generator_bess_fine_mode2_peak_to_background",
+      "status": "PASS",
+      "value": 12.826273354391736,
+      "limit": 5
+    },
+    {
+      "name": "profile_generator_bess_fine_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "profile_generator_bess_fine_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        458.333333333
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "profile_generator_bess_fine_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9566735637158997,
+        1.005259533025279
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "profile_generator_bess_fine_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "profile_generator_bess_fine_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "profile_generator_bess_fine_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.724145535812,
+        59.999536202653
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "profile_generator_bess_fine_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 9.038551529089167e-06,
+      "limit": 0.002
+    },
+    {
+      "name": "profile_generator_bess_fine_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.936496070395151e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "ideal_base_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_base_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        500.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "ideal_base_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9827251100165154,
+        0.992807755000245
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "ideal_bess_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_bess_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        500.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "ideal_bess_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9844013534909155,
+        0.9954238232688033
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "generator_base_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        500.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "generator_base_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.94387443826676,
+        1.0129012178580385
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "generator_base_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.166970065104,
+        60.388216163845
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "generator_base_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 2.8815298718093407e-06,
+      "limit": 0.002
+    },
+    {
+      "name": "generator_base_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "generator_bess_fresh_complete_source_bound_run",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_load_command_250_500_MW",
+      "status": "PASS",
+      "value": [
+        250.0,
+        500.0
+      ],
+      "limit": [
+        250,
+        500
+      ]
+    },
+    {
+      "name": "generator_bess_PCC_voltage_pu",
+      "status": "PASS",
+      "value": [
+        0.9498393023373013,
+        1.006282018992391
+      ],
+      "limit": [
+        0.9,
+        1.1
+      ]
+    },
+    {
+      "name": "generator_bess_native_multimass_and_1000MVA_bases",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_machine_and_rotor_released",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_frequency_Hz",
+      "status": "PASS",
+      "value": [
+        59.359833841182,
+        59.9996442102
+      ],
+      "limit": [
+        57,
+        63
+      ]
+    },
+    {
+      "name": "generator_bess_angular_momentum_residual_pu_s",
+      "status": "PASS",
+      "value": 4.68567762533581e-05,
+      "limit": 0.002
+    },
+    {
+      "name": "generator_bess_power_at_driven_mass_residual_pu",
+      "status": "PASS",
+      "value": 9.992007221626409e-15,
+      "limit": 5e-05
+    },
+    {
+      "name": "ideal_base_delivered_file_matches_executed_file",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_base_same_time_axis",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_base_same_intermittent_command",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_base_both_endpoints_exercised",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_base_load_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 5.350474895626987,
+      "limit": 25
+    },
+    {
+      "name": "ideal_base_PCC_balance_RMS_MW",
+      "status": "PASS",
+      "value": 0.007234289775698531,
+      "limit": 1.5
+    },
+    {
+      "name": "ideal_base_same_served_energy",
+      "status": "PASS",
+      "value": 0.0,
+      "limit": 0.03
+    },
+    {
+      "name": "ideal_bess_delivered_file_matches_executed_file",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_bess_same_time_axis",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_bess_same_intermittent_command",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_bess_both_endpoints_exercised",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "ideal_bess_load_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 5.16043254222249,
+      "limit": 25
+    },
+    {
+      "name": "ideal_bess_PCC_balance_RMS_MW",
+      "status": "PASS",
+      "value": 0.0021146801416173644,
+      "limit": 1.5
+    },
+    {
+      "name": "ideal_bess_same_served_energy",
+      "status": "PASS",
+      "value": 0.004644706494689288,
+      "limit": 0.03
+    },
+    {
+      "name": "ideal_bess_SOC_limits",
+      "status": "PASS",
+      "value": [
+        49.819955568115,
+        50.010958808213
+      ],
+      "limit": [
+        20,
+        80
+      ]
+    },
+    {
+      "name": "ideal_bess_coulomb_count_percentage_points",
+      "status": "PASS",
+      "value": 3.8698297544215166e-07,
+      "limit": 0.0001
+    },
+    {
+      "name": "ideal_bess_power_MW",
+      "status": "PASS",
+      "value": 227.54225945250985,
+      "limit": 260
+    },
+    {
+      "name": "ideal_bess_aggregate_current_kA",
+      "status": "PASS",
+      "value": 274.3881061573818,
+      "limit": 341
+    },
+    {
+      "name": "ideal_bess_modulation",
+      "status": "PASS",
+      "value": 0.97568921739441,
+      "limit": 0.980001
+    },
+    {
+      "name": "ideal_bess_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 5.762754888340757,
+      "limit": 12.5
+    },
+    {
+      "name": "ideal_bess_DC_voltage_kV",
+      "status": "PASS",
+      "value": [
+        1.539831465269777,
+        1.5657995804089253
+      ],
+      "limit": [
+        1.3,
+        1.7
+      ]
+    },
+    {
+      "name": "ideal_bess_energy_balance_relative",
+      "status": "PASS",
+      "value": {
+        "residual_MJ": 14.453143539596061,
+        "relative": 0.0049087559767501
+      },
+      "limit": 0.02
+    },
+    {
+      "name": "generator_base_delivered_file_matches_executed_file",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_same_time_axis",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_same_intermittent_command",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_both_endpoints_exercised",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_base_load_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 8.537267061073864,
+      "limit": 25
+    },
+    {
+      "name": "generator_base_PCC_balance_RMS_MW",
+      "status": "PASS",
+      "value": 0.007537651345102553,
+      "limit": 1.5
+    },
+    {
+      "name": "generator_base_same_served_energy",
+      "status": "PASS",
+      "value": 0.000648773737906172,
+      "limit": 0.03
+    },
+    {
+      "name": "generator_bess_delivered_file_matches_executed_file",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_same_time_axis",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_same_intermittent_command",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_both_endpoints_exercised",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "generator_bess_load_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 7.471077347295215,
+      "limit": 25
+    },
+    {
+      "name": "generator_bess_PCC_balance_RMS_MW",
+      "status": "PASS",
+      "value": 0.0021200681218334996,
+      "limit": 1.5
+    },
+    {
+      "name": "generator_bess_same_served_energy",
+      "status": "PASS",
+      "value": 0.009137166482612313,
+      "limit": 0.03
+    },
+    {
+      "name": "generator_bess_SOC_limits",
+      "status": "PASS",
+      "value": [
+        49.816402286545,
+        50.007536518709
+      ],
+      "limit": [
+        20,
+        80
+      ]
+    },
+    {
+      "name": "generator_bess_coulomb_count_percentage_points",
+      "status": "PASS",
+      "value": 3.8125779155961936e-07,
+      "limit": 0.0001
+    },
+    {
+      "name": "generator_bess_power_MW",
+      "status": "PASS",
+      "value": 227.04827014575372,
+      "limit": 260
+    },
+    {
+      "name": "generator_bess_aggregate_current_kA",
+      "status": "PASS",
+      "value": 273.349598531462,
+      "limit": 341
+    },
+    {
+      "name": "generator_bess_modulation",
+      "status": "PASS",
+      "value": 0.97798418959006,
+      "limit": 0.980001
+    },
+    {
+      "name": "generator_bess_tracking_RMS_MW",
+      "status": "PASS",
+      "value": 5.553650678601828,
+      "limit": 12.5
+    },
+    {
+      "name": "generator_bess_DC_voltage_kV",
+      "status": "PASS",
+      "value": [
+        1.5399527011615488,
+        1.5657382976648964
+      ],
+      "limit": [
+        1.3,
+        1.7
+      ]
+    },
+    {
+      "name": "generator_bess_energy_balance_relative",
+      "status": "PASS",
+      "value": {
+        "residual_MJ": 14.505373080928832,
+        "relative": 0.004928667355941003
+      },
+      "limit": 0.02
+    },
+    {
+      "name": "ideal_pulses_6_10_std_MW_reduction_percent",
+      "status": "PASS",
+      "value": 87.24392721547812,
+      "limit": 50
+    },
+    {
+      "name": "ideal_pulses_6_10_maximum_ramp_MW_per_s_reduction_percent",
+      "status": "PASS",
+      "value": 90.26794070095863,
+      "limit": 50
+    },
+    {
+      "name": "ideal_pulses_20_25_std_MW_reduction_percent",
+      "status": "PASS",
+      "value": 88.15309674907516,
+      "limit": 50
+    },
+    {
+      "name": "ideal_pulses_20_25_maximum_ramp_MW_per_s_reduction_percent",
+      "status": "PASS",
+      "value": 90.32938899136548,
+      "limit": 50
+    },
+    {
+      "name": "generator_pulses_6_10_std_MW_reduction_percent",
+      "status": "PASS",
+      "value": 87.30469247611153,
+      "limit": 50
+    },
+    {
+      "name": "generator_pulses_6_10_maximum_ramp_MW_per_s_reduction_percent",
+      "status": "PASS",
+      "value": 89.80131544660661,
+      "limit": 50
+    },
+    {
+      "name": "generator_pulses_20_25_std_MW_reduction_percent",
+      "status": "PASS",
+      "value": 88.19529357797514,
+      "limit": 50
+    },
+    {
+      "name": "generator_pulses_20_25_maximum_ramp_MW_per_s_reduction_percent",
+      "status": "PASS",
+      "value": 89.69399490615166,
+      "limit": 50
+    },
+    {
+      "name": "soc_low_protection_activated",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "soc_low_SOC_bounds",
+      "status": "PASS",
+      "value": [
+        20.001979835665,
+        20.103615987492
+      ],
+      "limit": [
+        20,
+        80
+      ]
+    },
+    {
+      "name": "soc_low_actual_forbidden_power_MW",
+      "status": "PASS",
+      "value": -0.5134810663768075,
+      "limit": 1
+    },
+    {
+      "name": "soc_low_reverse_recovery_allowed_MW",
+      "status": "PASS",
+      "value": -155.54326843224152,
+      "limit": -25
+    },
+    {
+      "name": "soc_low_coulomb_count_percentage_points",
+      "status": "PASS",
+      "value": 3.310006810863797e-07,
+      "limit": 0.0001
+    },
+    {
+      "name": "soc_high_protection_activated",
+      "status": "PASS",
+      "value": null,
+      "limit": null
+    },
+    {
+      "name": "soc_high_SOC_bounds",
+      "status": "PASS",
+      "value": [
+        79.893349130175,
+        79.998037773925
+      ],
+      "limit": [
+        20,
+        80
+      ]
+    },
+    {
+      "name": "soc_high_actual_forbidden_power_MW",
+      "status": "PASS",
+      "value": -3.9558459913475206,
+      "limit": 1
+    },
+    {
+      "name": "soc_high_reverse_recovery_allowed_MW",
+      "status": "PASS",
+      "value": -159.8460290390597,
+      "limit": -25
+    },
+    {
+      "name": "soc_high_coulomb_count_percentage_points",
+      "status": "PASS",
+      "value": 3.045204550744529e-07,
+      "limit": 0.0001
+    },
+    {
+      "name": "generator_base_half_step_mode1_frequency",
+      "status": "PASS",
+      "value": 5.136202928079925e-06,
+      "limit": 0.02
+    },
+    {
+      "name": "generator_base_half_step_mode2_frequency",
+      "status": "PASS",
+      "value": 1.1466030588991316e-05,
+      "limit": 0.02
+    },
+    {
+      "name": "generator_bess_half_step_mode1_frequency",
+      "status": "PASS",
+      "value": 0.0024675320094148523,
+      "limit": 0.02
+    },
+    {
+      "name": "generator_bess_half_step_mode2_frequency",
+      "status": "PASS",
+      "value": 0.003137251587436163,
+      "limit": 0.02
+    },
+    {
+      "name": "profile_half_step_Pgrid_MW_normalized_RMS",
+      "status": "PASS",
+      "value": 0.002131349926798471,
+      "limit": 0.03
+    },
+    {
+      "name": "profile_half_step_Pload_MW_normalized_RMS",
+      "status": "PASS",
+      "value": 0.0013060120609576567,
+      "limit": 0.03
+    },
+    {
+      "name": "profile_half_step_Pbess_MW_normalized_RMS",
+      "status": "PASS",
+      "value": 0.004999767625020402,
+      "limit": 0.03
+    },
+    {
+      "name": "profile_half_step_Vdc_kV_normalized_RMS",
+      "status": "PASS",
+      "value": 5.799127212869733e-05,
+      "limit": 0.03
+    },
+    {
+      "name": "profile_half_step_Generator_Hz_normalized_RMS",
+      "status": "PASS",
+      "value": 8.934605815648812e-06,
+      "limit": 0.03
+    },
+    {
+      "name": "profile_half_step_SOC_pct_normalized_RMS",
+      "status": "PASS",
+      "value": 2.938102444548866e-06,
+      "limit": 0.03
+    }
+  ],
+  "run_folders": {
+    "soc_low": "results/scale_250_500/soc_low_20261026_182842",
+    "soc_high": "results/scale_250_500/soc_high_20261026_182913",
+    "pulse_generator_base": "results/scale_250_500/pulse_generator_base_20261026_182948",
+    "pulse_generator_base_fine": "results/scale_250_500/pulse_generator_base_fine_20261026_183031",
+    "pulse_generator_bess": "results/scale_250_500/pulse_generator_bess_20261026_183115",
+    "pulse_generator_bess_fine": "results/scale_250_500/pulse_generator_bess_fine_20261026_183220",
+    "profile_generator_bess_fine": "results/scale_250_500/profile_generator_bess_fine_20261026_183346",
+    "ideal_base": "results/scale_250_500/ideal_base_final_20261026_183936",
+    "ideal_bess": "results/scale_250_500/ideal_bess_final_20261026_184000",
+    "generator_base": "results/scale_250_500/generator_base_final_20261026_184104",
+    "generator_bess": "results/scale_250_500/generator_bess_final_20261026_184155"
+  },
+  "four_case_power_metrics": {
+    "ideal_base": {
+      "mean_MW": 374.08753466937657,
+      "maximum_MW": 501.9741563732231,
+      "minimum_MW": 250.84989778621465,
+      "std_MW": 106.35167880190853,
+      "peak_to_peak_MW": 251.12425858700843,
+      "maximum_ramp_MW_per_s": 2509.2479680666024,
+      "net_energy_MWh": 2.9615279949777658,
+      "import_energy_MWh": 2.9615279949777658
+    },
+    "ideal_bess": {
+      "mean_MW": 373.21361780034107,
+      "maximum_MW": 491.78023816794877,
+      "minimum_MW": 247.24014831105742,
+      "std_MW": 54.75074928047241,
+      "peak_to_peak_MW": 244.54008985689134,
+      "maximum_ramp_MW_per_s": 244.2015002122324,
+      "net_energy_MWh": 2.9546094568402643,
+      "import_energy_MWh": 2.9546094568402643
+    },
+    "generator_base": {
+      "mean_MW": 373.8547678923497,
+      "maximum_MW": 503.52832136074124,
+      "minimum_MW": 250.2155469472091,
+      "std_MW": 105.68067149672541,
+      "peak_to_peak_MW": 253.31277441353214,
+      "maximum_ramp_MW_per_s": 2515.3522311523366,
+      "net_energy_MWh": 2.9596852547311987,
+      "import_energy_MWh": 2.9596852547311987
+    },
+    "generator_bess": {
+      "mean_MW": 374.24099228054877,
+      "maximum_MW": 494.6171507807138,
+      "minimum_MW": 247.8172580632914,
+      "std_MW": 54.68171814005811,
+      "peak_to_peak_MW": 246.7998927174224,
+      "maximum_ramp_MW_per_s": 259.23232907078767,
+      "net_energy_MWh": 2.9627428525446775,
+      "import_energy_MWh": 2.9627428525446775
+    }
+  },
+  "BESS_reductions_percent": {
+    "ideal": {
+      "std_MW": 48.51914901836991,
+      "maximum_ramp_MW_per_s": 90.26794070095863,
+      "peak_to_peak_MW": 2.621876821922331
+    },
+    "generator": {
+      "std_MW": 48.25759775594115,
+      "maximum_ramp_MW_per_s": 89.69399490615166,
+      "peak_to_peak_MW": 2.5710830064485712
+    }
+  },
+  "served_energy_MJ": {
+    "ideal_base": 10651.813659447424,
+    "ideal_bess": 10701.28820753168,
+    "generator_base": 10644.903042484104,
+    "generator_bess": 10749.14105419556
+  },
+  "protection": {
+    "soc_low": {
+      "activation_s": 1.151,
+      "forbidden_power_MW": -0.5134810663768075,
+      "recovery_MW": -155.54326843224152
+    },
+    "soc_high": {
+      "activation_s": 1.2232,
+      "forbidden_power_MW": -3.9558459913475206,
+      "recovery_MW": -159.8460290390597
+    }
+  },
+  "shaft": {
+    "H": [
+      1.5,
+      1.0,
+      2.5
+    ],
+    "K": [
+      40.0,
+      50.0
+    ],
+    "rpm": 3600.0,
+    "MVA": 1000.0,
+    "generator_mass": 3,
+    "torque_shares": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "mutual_damping": [
+      1.0,
+      1.0
+    ]
+  },
+  "calculated_frequencies_Hz": [
+    0.0,
+    10.610873569209502,
+    23.236708647633858
+  ],
+  "calculated_shapes": [
+    [
+      1.0,
+      -1.0,
+      -0.3085738606991842
+    ],
+    [
+      0.9999999999999992,
+      -0.11571519776219377,
+      1.0
+    ],
+    [
+      0.9999999999999989,
+      0.6462860791048779,
+      -0.21485568358048965
+    ]
+  ],
+  "modal_identification": {
+    "pulse_generator_base": [
+      {
+        "reference_Hz": 10.610873569209502,
+        "frequency_Hz": 10.610222260653638,
+        "relative_error": 6.138123799295607e-05,
+        "MAC": 0.9999998972487111,
+        "peak_to_median": 3827.675844973487,
+        "relative_speed_amplitude": 0.005162723445634701,
+        "observed_shape_real": [
+          1.0,
+          0.11571309599395922,
+          -0.6462852383975836
+        ],
+        "observed_shape_imag": [
+          -2.9822438075382235e-17,
+          0.0004733276006368933,
+          -0.00018933104025472573
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 10.620543164946616,
+          "MAC": 0.9999998972487111,
+          "amplitude": 0.005162723445634701,
+          "selected_as_mode": true
+        }
+      },
+      {
+        "reference_Hz": 23.236708647633858,
+        "frequency_Hz": 23.236393419107536,
+        "relative_error": 1.3565971459302617e-05,
+        "MAC": 0.9999995963060979,
+        "peak_to_median": 2079.297976984088,
+        "relative_speed_amplitude": 0.00014055029410449233,
+        "observed_shape_real": [
+          -0.30861996314519635,
+          1.0,
+          -0.21482802211288218
+        ],
+        "observed_shape_imag": [
+          -0.0004592529525218352,
+          9.355662680200684e-17,
+          0.00027555177151308683
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 23.241058744071488,
+          "MAC": 0.9999995963060979,
+          "amplitude": 0.00014055029410449233,
+          "selected_as_mode": true
+        }
+      }
+    ],
+    "pulse_generator_base_fine": [
+      {
+        "reference_Hz": 10.610873569209502,
+        "frequency_Hz": 10.61027675690828,
+        "relative_error": 5.6245350331332115e-05,
+        "MAC": 0.9999998947510751,
+        "peak_to_median": 4620.271013071546,
+        "relative_speed_amplitude": 0.005219948503164015,
+        "observed_shape_real": [
+          1.0,
+          0.11570990141764213,
+          -0.646283960567057
+        ],
+        "observed_shape_imag": [
+          4.872073453216105e-18,
+          0.00047902077432908314,
+          -0.00019160830973168386
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 10.620543164946616,
+          "MAC": 0.9999998947510751,
+          "amplitude": 0.005219948503164015,
+          "selected_as_mode": true
+        }
+      },
+      {
+        "reference_Hz": 23.236708647633858,
+        "frequency_Hz": 23.23665984830526,
+        "relative_error": 2.10009641810125e-06,
+        "MAC": 0.9999995877716765,
+        "peak_to_median": 4235.168492845776,
+        "relative_speed_amplitude": 0.00014041530555612916,
+        "observed_shape_real": [
+          -0.3085786919243588,
+          1.0,
+          -0.21485278484538473
+        ],
+        "observed_shape_imag": [
+          -0.0004663873697858147,
+          -2.1621397275765683e-16,
+          0.0002798324218715483
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 23.241058744071488,
+          "MAC": 0.9999995877716765,
+          "amplitude": 0.00014041530555612916,
+          "selected_as_mode": true
+        }
+      }
+    ],
+    "pulse_generator_bess": [
+      {
+        "reference_Hz": 10.610873569209502,
+        "frequency_Hz": 10.591300584338294,
+        "relative_error": 0.001844615784321978,
+        "MAC": 0.9999995706164873,
+        "peak_to_median": 41.80178097041498,
+        "relative_speed_amplitude": 0.002866540489561158,
+        "observed_shape_real": [
+          1.0,
+          0.11587065218496616,
+          -0.6463482608739864
+        ],
+        "observed_shape_imag": [
+          -1.3117920323409396e-16,
+          0.0009550753391183969,
+          -0.00038203013564730274
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 10.620543164946616,
+          "MAC": 0.9999995706164873,
+          "amplitude": 0.002866540489561158,
+          "selected_as_mode": true
+        }
+      },
+      {
+        "reference_Hz": 23.236708647633858,
+        "frequency_Hz": 23.22424117235561,
+        "relative_error": 0.0005365422215041473,
+        "MAC": 0.999296645504212,
+        "peak_to_median": 28.675182515864883,
+        "relative_speed_amplitude": 0.0009640742354262184,
+        "observed_shape_real": [
+          -0.3074401940402012,
+          1.0,
+          -0.21553588357587936
+        ],
+        "observed_shape_imag": [
+          -0.01923684787953678,
+          7.26534511405044e-17,
+          0.011542108727722046
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 23.241058744071488,
+          "MAC": 0.999296645504212,
+          "amplitude": 0.0009640742354262184,
+          "selected_as_mode": true
+        }
+      }
+    ],
+    "pulse_generator_bess_fine": [
+      {
+        "reference_Hz": 10.610873569209502,
+        "frequency_Hz": 10.565166211125105,
+        "relative_error": 0.004307596145243958,
+        "MAC": 0.9999989167872072,
+        "peak_to_median": 20.026850788354313,
+        "relative_speed_amplitude": 0.0009226537237996713,
+        "observed_shape_real": [
+          1.0,
+          0.11706130193541038,
+          -0.6468245207741643
+        ],
+        "observed_shape_imag": [
+          1.350442007349831e-16,
+          0.000742824763734214,
+          -0.00029712990549375293
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 10.551578598940468,
+          "MAC": 0.9999989167872072,
+          "amplitude": 0.0009226537237996713,
+          "selected_as_mode": true
+        }
+      },
+      {
+        "reference_Hz": 23.236708647633858,
+        "frequency_Hz": 23.297101459840583,
+        "relative_error": 0.0025990260979958054,
+        "MAC": 0.9989334888924627,
+        "peak_to_median": 12.826273354391736,
+        "relative_speed_amplitude": 0.0003155574400175968,
+        "observed_shape_real": [
+          -0.2998314823645786,
+          1.0,
+          -0.2201011105812528
+        ],
+        "observed_shape_imag": [
+          -0.022042954650524894,
+          -2.2646291489730624e-16,
+          0.01322577279031503
+        ],
+        "frequency_bin_Hz": 0.06896456600614685,
+        "strongest_band_peak": {
+          "frequency_Hz": 23.310023310077636,
+          "MAC": 0.9989334888924627,
+          "amplitude": 0.0003155574400175968,
+          "selected_as_mode": true
+        }
+      }
+    ]
+  },
+  "modal_step_sensitivity": {
+    "generator_base": {
+      "amplitude_change_percent": [
+        1.1084277151761857,
+        -0.09604287861739724
+      ],
+      "amplitudes_within_10percent": true
+    },
+    "generator_bess": {
+      "amplitude_change_percent": [
+        -67.81298826374082,
+        -67.26834631379933
+      ],
+      "amplitudes_within_10percent": false
+    }
+  },
+  "method": {
+    "power_window_s": [
+      1.5,
+      30
+    ],
+    "power_average_s": 0.016666666666666666,
+    "ramp_interval_s": 0.1,
+    "modal_window_s": [
+      5.3,
+      19.8
+    ],
+    "modal_signal": "Raw mechanical speed minus inertia-weighted common speed; Hann spectrum, MAC association.",
+    "scope": "Didactic aggregate model; fresh 250--500 MW runs. No manufacturer calibration. BESS modal amplitude convergence assessed separately; no damping-ratio or energy-saving claim."
+  }
+}

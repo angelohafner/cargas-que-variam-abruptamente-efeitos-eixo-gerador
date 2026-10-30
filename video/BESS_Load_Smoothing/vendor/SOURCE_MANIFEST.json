@@ -1,0 +1,226 @@
+{
+  "repository": "https://github.com/cdelker/schemdraw",
+  "version": "0.23",
+  "files": [
+    {
+      "path": "schemdraw/__init__.py",
+      "sha": "9ef3573ca435099c838f9341e1913d88c4636d42",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/__init__.py",
+      "local_sha256": "db0e86b7787c6431e228a2ec6ac671e142bb09c5aea1a27f5334b32871f82a2e"
+    },
+    {
+      "path": "schemdraw/default_canvas.py",
+      "sha": "13e5a2468f138cb1fb4125f41fcb80b666402a8c",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/default_canvas.py",
+      "local_sha256": "a578cfd13136281861871472eeecd59c5777a40b67e8587f383aad7f3086ed86"
+    },
+    {
+      "path": "schemdraw/drawing_stack.py",
+      "sha": "800c50a9ef08c6bbbbf353a30066323ca89ad418",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/drawing_stack.py",
+      "local_sha256": "df350ce99c2c4b49360cc8e8677014e5c10fce148aa7fd2d3e4522c6d2de9185"
+    },
+    {
+      "path": "schemdraw/schemdraw.py",
+      "sha": "72a5cec5c6a5b851cc8d0690249391f32efaa7bd",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/schemdraw.py",
+      "local_sha256": "b1b5f6d70c63ad471fcd887a4ebec647a3a562ed22965daee001a69b5d5477ad"
+    },
+    {
+      "path": "schemdraw/segments.py",
+      "sha": "56d4c1b8812321bc30e60a60d0607d9fd57f6035",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/segments.py",
+      "local_sha256": "27c82f2b1a73746023caabd27192c42b516b3236f990cea2397075364c295eda"
+    },
+    {
+      "path": "schemdraw/style.py",
+      "sha": "9ed032fb3c12188eb44db2808d05e3395771f5eb",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/style.py",
+      "local_sha256": "56de30e685e3a90eab417b3a38e6486aae2fe874df9b055d3813363f203b053d"
+    },
+    {
+      "path": "schemdraw/transform.py",
+      "sha": "5ffc8fbfdaf6eb2decd536b2a32a91768b255572",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/transform.py",
+      "local_sha256": "2d4d5096caa7d16f7892ce3c3d6b2accee0b4c1e6329a4caec3c2f4b2f61c5f5"
+    },
+    {
+      "path": "schemdraw/types.py",
+      "sha": "d3c539896638206e1e70bb2c3392902b2cb9ddca",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/types.py",
+      "local_sha256": "6c1d7e03b80c622e5b94f0433312aea4ae1a1650aeac0ac71ac5f2fec27cf0c7"
+    },
+    {
+      "path": "schemdraw/util.py",
+      "sha": "e69fbc9c23eb365d1640b0ae66a8d79ee18febc2",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/util.py",
+      "local_sha256": "9778c74f93a4c494eb5bb540af064abe2918066bdff5a8ebddf1986d83568fd1"
+    },
+    {
+      "path": "schemdraw/backends/matrix.py",
+      "sha": "64c9e82d47fa87b0f2e12d3fbf5482d6b30559b1",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/backends/matrix.py",
+      "local_sha256": "aadf130dbbd82d88d808ad40e137a5d188781bca40df3a0672ae63a09488c12d"
+    },
+    {
+      "path": "schemdraw/backends/mpl.py",
+      "sha": "37f0953c4c9dd75d1746aeb10d9de80c403bac63",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/backends/mpl.py",
+      "local_sha256": "8548096e139967dc1330af4a1b348250393f24207462b3818d4ebacf8c5401cc"
+    },
+    {
+      "path": "schemdraw/backends/svg.py",
+      "sha": "b1a63e4ee1e420d7007960ddcfebcb45aa0d7cdd",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/backends/svg.py",
+      "local_sha256": "54195b00281d1488b6e631db8eead571ddcf8140cbf61c81f3a3ca3a483df81f"
+    },
+    {
+      "path": "schemdraw/backends/svgtext.py",
+      "sha": "92d89c9c34a9694b36da1cba6a97f55e7462d7d3",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/backends/svgtext.py",
+      "local_sha256": "205378e1818f33bb01341c6880375b022b8cd7320639fae4cd3034783489353a"
+    },
+    {
+      "path": "schemdraw/backends/svgunits.py",
+      "sha": "30ad63d40acc6c58e5a494bb1481b18193fab4bb",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/backends/svgunits.py",
+      "local_sha256": "be5ab4e3d1258f50fdb5eb4f38a7f12c539a22df8585834bb479d5811598481f"
+    },
+    {
+      "path": "schemdraw/elements/__init__.py",
+      "sha": "d905e2eee0c7d2e8c742ea07db6a833fc4655d15",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/__init__.py",
+      "local_sha256": "c1be7ab2310466ad7f0fd5e7e8dadf02dafbf30e55e6740d865d4c56aa491916"
+    },
+    {
+      "path": "schemdraw/elements/cables.py",
+      "sha": "9dbc11c1a8788ce8c7f6a45701f26a0faaf52458",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/cables.py",
+      "local_sha256": "40f3608fdb32772cb8eda4668941a978fc5cecfe311774d776af3e8e1a88ba4b"
+    },
+    {
+      "path": "schemdraw/elements/compound.py",
+      "sha": "58683796d55defa9d73b199919f38fd4c4a8d481",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/compound.py",
+      "local_sha256": "55063a5fa13e9f6f19eca51310019461631ce18954330a88228a676ed9d5043a"
+    },
+    {
+      "path": "schemdraw/elements/connectors.py",
+      "sha": "c1a2cb9cbcde993be7e1b2e022910e09742c87be",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/connectors.py",
+      "local_sha256": "e2872995631d7ec1651f1f5d1b086f2ee5afdf015b3593cca09c5b2d67afcfdb"
+    },
+    {
+      "path": "schemdraw/elements/container.py",
+      "sha": "ca7d70fc0eb988a690c0de9766432c7028e86386",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/container.py",
+      "local_sha256": "eb4e4b53bc0f280fcbbd412677f2f147a2fd8089af6c1485601874a1cf09d803"
+    },
+    {
+      "path": "schemdraw/elements/elements.py",
+      "sha": "a7502d3c1719845c6f2efc84ab366c21eb4fd8c1",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/elements.py",
+      "local_sha256": "90df8c7d82fad84ea80ec88b4189c72f53b4e25c7e22b557157da96ad7fdf33e"
+    },
+    {
+      "path": "schemdraw/elements/image.py",
+      "sha": "8536ad27ec25b54505defbcfd79ff9257a9ab206",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/image.py",
+      "local_sha256": "3ecce644788007c003967bcddf844a20bc8a0134698bc7f4247ec334537e3610"
+    },
+    {
+      "path": "schemdraw/elements/intcircuits.py",
+      "sha": "d9fb896d5d18ada30a0b656dd8e9d609b54404d1",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/intcircuits.py",
+      "local_sha256": "b8f7c6f470cbb83518945a138381abc58fb6b27251cfbaf743211c8272f9b09e"
+    },
+    {
+      "path": "schemdraw/elements/lines.py",
+      "sha": "ef9b87ec906007cd0d7af797346d8a80e6afff27",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/lines.py",
+      "local_sha256": "6bd34f6c57174f79a04d34ddd8753d8da37dc7dbea06c49e1e32fc5b3927a8c5"
+    },
+    {
+      "path": "schemdraw/elements/misc.py",
+      "sha": "67351688c9fab519219713862bf9fed618bf4566",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/misc.py",
+      "local_sha256": "4bb68a774495bb5da170dfa4b05ac37f8b5bafa0a3a0ab6e098cfd4e3a235526"
+    },
+    {
+      "path": "schemdraw/elements/oneterm.py",
+      "sha": "c7a434a07a01727e1b0d2847baddb2bb2a42d452",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/oneterm.py",
+      "local_sha256": "26ea165837056c42fa1d4518991f2e60cebad40d737cd38998cdb8aab9ef073b"
+    },
+    {
+      "path": "schemdraw/elements/opamp.py",
+      "sha": "f6813ead0e829c9a1e8c8b8b42a55a781f14454a",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/opamp.py",
+      "local_sha256": "7d166deba4a997c4ddff8dcf35e619dcb3a47a52da24d95fb54dbb1209eb39c7"
+    },
+    {
+      "path": "schemdraw/elements/outlets.py",
+      "sha": "3516f649585bcc6726b67f283eb8a1ed901fe34a",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/outlets.py",
+      "local_sha256": "cee324f373ebafc962a00d14caa79194590d0aa389c35075e451fb1862198bff"
+    },
+    {
+      "path": "schemdraw/elements/sources.py",
+      "sha": "219e5506b294f4b9ad5334f4ecdadcf670afbbfa",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/sources.py",
+      "local_sha256": "93d809949c548f634b5fcfaad1c20a125d716bd9dd1f6db1d6a55fe2554eb44a"
+    },
+    {
+      "path": "schemdraw/elements/switches.py",
+      "sha": "2318a0a3dcca86f3cff4da33581c6adbba915a34",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/switches.py",
+      "local_sha256": "5a26f82c562391235a31e6aa2ad0796909da8b69d534e6086f5e5a55aec2d2aa"
+    },
+    {
+      "path": "schemdraw/elements/transistors.py",
+      "sha": "18a057f7b1ff74d4ae970bb959f51b0b501b7ed1",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/transistors.py",
+      "local_sha256": "0f4ba366ac2667d0ce45ad0d405382c7d4120a9591eaee8e8c8be38132ad8444"
+    },
+    {
+      "path": "schemdraw/elements/tubes.py",
+      "sha": "59adaf41542581a609895c71d4ebd199ba4613bd",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/tubes.py",
+      "local_sha256": "4fe73f2eddfb2fead6dc981f972c7d8d2c0b55a01501817c30f06af091149bbe"
+    },
+    {
+      "path": "schemdraw/elements/twoports.py",
+      "sha": "295c7cd564d967c6247fbbebdda13037834add55",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/twoports.py",
+      "local_sha256": "326685532eb526e15de168ff9436c416ec00dee1bfcce31f9febf8953e8f18d6"
+    },
+    {
+      "path": "schemdraw/elements/twoterm.py",
+      "sha": "f9c732184da313333a1bb94ebb3ff96e6f285a3b",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/twoterm.py",
+      "local_sha256": "a140d7e7d4a87ba185126f025bf0910f60437bb739f230cdb5be00dc9f83c29c"
+    },
+    {
+      "path": "schemdraw/elements/xform.py",
+      "sha": "f1bac4ec00ccc3b352cfca8c1212549e91fac2a3",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/schemdraw/elements/xform.py",
+      "local_sha256": "a5b595678589a1882469ea90fc9154362677521209d29db83c6b364855d987c5"
+    },
+    {
+      "path": "LICENSE.txt",
+      "url": "https://github.com/cdelker/schemdraw/blob/master/LICENSE.txt",
+      "local_sha256": "75f387e117abf9fe81291644976e3e6370515e8ca5f3965f951cddb6c1b48ac6"
+    },
+    {
+      "path": "schemdraw/backends/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "local_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "schemdraw/py.typed",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "local_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "verified_upstream_blob_hashes": 36
+}

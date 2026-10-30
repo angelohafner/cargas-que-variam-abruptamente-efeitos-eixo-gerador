@@ -1,0 +1,135 @@
+{
+  "history_folder": "C:\\CODES\\data-center\\video\\BESS_Load_Smoothing\\history\\before_editorial_cut_20261030_122348",
+  "preserved_files": {
+    "data_pipeline.py": {
+      "sha256": "7014180b7d83385a0ef42e47bf0e6f0f935b8ae4ce453008e96da3c135874534",
+      "bytes": 8139
+    },
+    "diagram_assets.py": {
+      "sha256": "476e720650578c67edce3f720f3e0539c7dd863431c838aef89b1e40941eefbe",
+      "bytes": 2040
+    },
+    "package_video.py": {
+      "sha256": "324690d59566de197f8b37d06932df2ac047c4208a7a220f5e0dffc6f3723cd3",
+      "bytes": 3067
+    },
+    "render_video.py": {
+      "sha256": "fe20dbbff7c7c9405f55338088ff79a2802e1e88cfe059501d9fb71b414a7a8a",
+      "bytes": 4821
+    },
+    "scenes.py": {
+      "sha256": "e9bb747085650cfc5dbf7f997facb5f4464aba105de032e75963784e85a45b6e",
+      "bytes": 12964
+    },
+    "shaft_twist.py": {
+      "sha256": "a09919bea3cc62884403827fdea6c90d89a54530de51a09bacef4e3ad020cbff",
+      "bytes": 2991
+    },
+    "source_reader.py": {
+      "sha256": "60a7d73dd210ce25945d7b01c560cf9ed9c7dfcf6e9b6742bf39ce1a10adda11",
+      "bytes": 3087
+    },
+    "test_data_pipeline.py": {
+      "sha256": "bfab7b4f6c589687be9dbbfb2d47fe757c18ae4e675356bfece500a242faafde",
+      "bytes": 1307
+    },
+    "test_shaft_twist.py": {
+      "sha256": "643f7436f7d5676666d8aaf9b0f995902ffa951724b0e5eca1a8c9ae170b49cd",
+      "bytes": 1593
+    },
+    "twist_visuals.py": {
+      "sha256": "66aa4ee1dce4df2fa99ecf3d46ceecf870f4d92d4ea3be91a97a97b18de9b4c9",
+      "bytes": 3815
+    },
+    "verify_delivery.py": {
+      "sha256": "ed85b09e55898540d8a9ebbb45fad02ddadc67f32fe59a01bd9f1f2a5d8c6d0d",
+      "bytes": 8757
+    },
+    "visuals.py": {
+      "sha256": "982d276a2d14fcf28c5e82e89735da5d33ddac263446c026a7c816487b0ffb9e",
+      "bytes": 6671
+    },
+    "README.md": {
+      "sha256": "f0d6c16ccf7f8057987ccde2a67cbe8efe4f14f56532d22641d4a8608709a481",
+      "bytes": 10065
+    },
+    "output/BESS_Abrupt_Loads_1080p.mp4": {
+      "sha256": "0293b6f18bf8e44d788b0887d01195c37e7ecd16b5028cd1393098c8c64c03c8",
+      "bytes": 4718467
+    },
+    "output/BESS_Abrupt_Loads_Complete.zip": {
+      "sha256": "359576ffc9db7e854d1eb05889742aca4bc0a59a2e3112eb622780ea92c9394e",
+      "bytes": 89419149
+    },
+    "output/BESS_Abrupt_Loads_Preview.mp4": {
+      "sha256": "ebf0e079f963e0c35e90c56841e01c5dc955ff1486f5862a269d58ab6c885566",
+      "bytes": 1223410
+    },
+    "output/MANIFEST.json": {
+      "sha256": "0a4b7a81ac4ea2521475fdf3c006038c2d613d0b8b575e8351f48ff5cbb41975",
+      "bytes": 18365
+    },
+    "output/Shaft_Twist_Comparison_1080p.mp4": {
+      "sha256": "d5c993f54526cbb0a24919e4293028f9eb5a4d2aded1bca22f3191ba9e02f0f7",
+      "bytes": 1127536
+    },
+    "evidence/delivery_verification.json": {
+      "sha256": "f740f072949cd73dea57fd3763b821428c1efeaeac362aad90cf04fe4faf117a",
+      "bytes": 7614
+    },
+    "evidence/existing_pscad_validation.json": {
+      "sha256": "a8a1a3dedf84513bd9dba5155bbee3c75b88c2724608a88dc0777ef7045d9f0f",
+      "bytes": 40302
+    },
+    "evidence/final_probe.json": {
+      "sha256": "ef5a79725dbf2d5fbe17805de8b9ac648c32fb7cf9c3723d0c8aa8acf6b803e5",
+      "bytes": 3471
+    },
+    "evidence/final_timeline.json": {
+      "sha256": "f5326e73112e75c23a8b113df6ea040ebcfaf52045abcc1d3139b4f79f973aed",
+      "bytes": 822
+    },
+    "evidence/package_verification.json": {
+      "sha256": "8710c9de727c1f517ed0aa8b2ef1a1062593192613a683c2a5f9bfbdf6ca7145",
+      "bytes": 256
+    },
+    "evidence/preview_probe.json": {
+      "sha256": "f6f0425bef9f6b352363e0d6fd31d477d000803ececaff62390c2b42f6500dd8",
+      "bytes": 3475
+    },
+    "evidence/preview_timeline.json": {
+      "sha256": "943b28fa6214de5e5bea36955f2a15bfc21be2cc7dc1f2b0f158063e1447bc3c",
+      "bytes": 910
+    },
+    "evidence/revision_baseline.json": {
+      "sha256": "fe639361e0ad6ea9f099aee35d766a3e22f73fa8bf1c8b9b3745fb3242e06ce4",
+      "bytes": 4083
+    },
+    "evidence/shaft_twist_revision.json": {
+      "sha256": "970afb0ec4ed325e8fd2fa421c50ede3f3360871d5c6cad1992b79d21ac15efd",
+      "bytes": 1135
+    },
+    "evidence/source_suite.json": {
+      "sha256": "b52bb376e8b6190513a5c46482ea82c743ce9cb9ad53aafa97aac4ae4d59ef91",
+      "bytes": 1046
+    },
+    "evidence/visual_review.json": {
+      "sha256": "e35e35e69a56ade2a9a18641fea14165d27ff02c5e5d5c1f18aafa2f32b58aed",
+      "bytes": 2071
+    }
+  },
+  "previous_chapters_sha256": {
+    "Applications.mp4": "66c93327801a5f92c5df1ab44124b58b24887593f6b74dd5247ff4ea209fe6d4",
+    "MeasuredBenefits.mp4": "b763516b454b436383335f55af1a5c8c59563889ed8bf5cdbe6f3465fa47772f",
+    "ParallelBuffer.mp4": "76ed5d51df59c0142b990c53ed0436aa4fa8510e5fb203346f7437245ed57b9d",
+    "PowerComparison.mp4": "b88793413ab582479529a0785ec561ffc9b71fa5e45a4f9bd169dd3489e2da57",
+    "ScopeAndLimits.mp4": "d602742fd79d70a836d59f4448772e67d0d583d55e7b70f577f40b3693e69dcd",
+    "ShaftMechanism.mp4": "d5c993f54526cbb0a24919e4293028f9eb5a4d2aded1bca22f3191ba9e02f0f7",
+    "TorqueComparison.mp4": "e70cd132031c8eeaa541f04be0c5a9ae61790a0f076f76f24f1be9c0bc357e21"
+  },
+  "removed_scenes": [
+    "TorqueComparison",
+    "ScopeAndLimits"
+  ],
+  "approved_ending": "MeasuredBenefits"
+}

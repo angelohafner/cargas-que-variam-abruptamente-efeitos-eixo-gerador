@@ -1,0 +1,7 @@
+Independent read-only review of the approved five-chapter editorial cut.
+
+Approved within the requested scope; no actionable findings.
+
+Confirmed the five chapters in the approved order, ending at 88.3 s with MeasuredBenefits. The four other retained clips and their scene source are unchanged; raw/display data hashes match provenance. Every preserved file matches edit_baseline.json. Package selection excludes removed-scene evidence. The updated shaft footer is present and legible, and no quantified damping claim appears.
+
+The independent reviewer inspected source, scene selection, evidence, preservation hashes and the refreshed contact sheet. Complete motion QA, full decoding and final ZIP integrity were outside this review. The primary separately inspected full-resolution shaft sample frames and the ending, decoded every frame, and verifies the final archive CRC and payload hashes.

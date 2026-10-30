@@ -1,0 +1,7 @@
+Independent read-only review of the approved shaft-twist video revision.
+
+No actionable Critical/Important findings or material Minor visual issues.
+
+Confirmed baseline subtraction over [1.8, 1.95), common gain 200, physical mrad readouts, coherent clockwise-positive geometry, and one shared clock for pointers and torque markers. Six new numerical tests pass; recomputed event evidence matches the JSON exactly. The preview poster has no evident clipping or overlaps and makes no quantified damping-benefit claim.
+
+The independent reviewer inspected code, numerical evidence and the preview poster. Full-motion perceptual quality, final 1080p output, packaging/documentation, preservation of other chapters and native PSCAD convergence were outside that completed review. The primary agent checks final rendered sample frames, full-video decoding, archive integrity and file preservation separately. Native PSCAD convergence remains subject to the existing documented limitation.
